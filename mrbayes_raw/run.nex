@@ -1,0 +1,5 @@
+prset aamodelpr=fixed(wag);
+lset rates=gamma Ngammacat=4;
+mcmc ngen=5000000 printfreq=500 samplefreq=10
+nchains=4 savebrlens=yes 
+filename=prx5.mrbayes;

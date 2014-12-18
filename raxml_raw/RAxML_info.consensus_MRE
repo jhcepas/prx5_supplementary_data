@@ -1,0 +1,28 @@
+
+
+This is RAxML version 8.0.26 released by Alexandros Stamatakis on June 25 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+RAxML consensus tree computation
+
+
+RAxML was called as follows:
+
+/home/huerta/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -T28 -s ../manual.fa -p31416 -J MRE -m PROTGAMMAWAG -n consensus_MRE -z RAxML_bootstrap.boot 
+
+
+
+
+Found 100 trees in File RAxML_bootstrap.boot
+
+RAxML extended Majority Rule consensus tree written to file: /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_MajorityRuleExtendedConsensusTree.consensus_MRE

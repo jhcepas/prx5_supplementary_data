@@ -1,0 +1,772 @@
+#NEXUS
+BEGIN DATA;
+ DIMENSIONS NTAX=84 NCHAR=377;
+FORMAT DATATYPE=PROTEIN INTERLEAVE=yes GAP=-;
+[Name: XP_004031009.1         Len: 377]
+[Name: ABV22156               Len: 377]
+[Name: XP_002773537.1         Len: 377]
+[Name: AAY96293.1             Len: 377]
+[Name: XP_002613574.1         Len: 377]
+[Name: XP_001629337.1         Len: 377]
+[Name: NP_036226.1            Len: 377]
+[Name: NP_036151.1            Len: 377]
+[Name: XP_002108078.1         Len: 377]
+[Name: ADX36414.1             Len: 377]
+[Name: NP_001027191.1         Len: 377]
+[Name: AEA92625.1             Len: 377]
+[Name: AAM65848.1             Len: 377]
+[Name: NP_001237663.1         Len: 377]
+[Name: CAQ56034.1             Len: 377]
+[Name: XP_002325005.1         Len: 377]
+[Name: EFN59443.1             Len: 377]
+[Name: EIE22107.1             Len: 377]
+[Name: XP_002956367.1         Len: 377]
+[Name: XP_001698498.1         Len: 377]
+[Name: XP_003060416.1         Len: 377]
+[Name: XP_003082173.1         Len: 377]
+[Name: XP_638067.1            Len: 377]
+[Name: EFA74828.1             Len: 377]
+[Name: EME30410.1             Len: 377]
+[Name: CBN78919.1             Len: 377]
+[Name: CAQ52405.1             Len: 377]
+[Name: EKU23114.1             Len: 377]
+[Name: XP_005714665.1         Len: 377]
+[Name: XP_001758208.1         Len: 377]
+[Name: XP_002292020.1         Len: 377]
+[Name: PBANKA_021330          Len: 377]
+[Name: PY01475_exon2          Len: 377]
+[Name: PCHAS_021170_exon2     Len: 377]
+[Name: PCYB_022410_exon2      Len: 377]
+[Name: PVX_081760_exon2       Len: 377]
+[Name: PKH_021360_exon2       Len: 377]
+[Name: PF3D7_0729200_exon2    Len: 377]
+[Name: TGGT1_038055           Len: 377]
+[Name: NCLIV_014020           Len: 377]
+[Name: WP_017182087.1         Len: 377]
+[Name: WP_003510133.1         Len: 377]
+[Name: WP_003513894.1         Len: 377]
+[Name: WP_018065210.1         Len: 377]
+[Name: WP_009449921.1         Len: 377]
+[Name: YP_989434.1            Len: 377]
+[Name: YP_034080.1            Len: 377]
+[Name: NP_444105.1            Len: 377]
+[Name: WP_008883752.1         Len: 377]
+[Name: WP_007798629.1         Len: 377]
+[Name: YP_006572897.1         Len: 377]
+[Name: WP_007119512.1         Len: 377]
+[Name: WP_008328960.1         Len: 377]
+[Name: WP_010392270.1         Len: 377]
+[Name: YP_001891800.1         Len: 377]
+[Name: WP_004287651.1         Len: 377]
+[Name: YP_006316950.1         Len: 377]
+[Name: YP_001517986.1         Len: 377]
+[Name: YP_005071632.1         Len: 377]
+[Name: WP_009554039.1         Len: 377]
+[Name: YP_007159554.1         Len: 377]
+[Name: YP_007069293.1         Len: 377]
+[Name: YP_001734053.1         Len: 377]
+[Name: YP_343352.1            Len: 377]
+[Name: YP_004511903.1         Len: 377]
+[Name: NP_885227.1            Len: 377]
+[Name: YP_004681256.1         Len: 377]
+[Name: YP_005895931.1         Len: 377]
+[Name: YP_003739564.1         Len: 377]
+[Name: NP_667659.1            Len: 377]
+[Name: WP_006233858.1         Len: 377]
+[Name: WP_001903937.1         Len: 377]
+[Name: YP_944754.1            Len: 377]
+[Name: WP_010555882.1         Len: 377]
+[Name: WP_005707035.1         Len: 377]
+[Name: YP_390409.1            Len: 377]
+[Name: YP_694352.1            Len: 377]
+[Name: WP_007022141.1         Len: 377]
+[Name: YP_431497.1            Len: 377]
+[Name: YP_004872801.1         Len: 377]
+[Name: XP_004338942.1         Len: 377]
+[Name: NP_587706.1            Len: 377]
+[Name: EJY72164.1             Len: 377]
+[Name: EWH17271.1             Len: 377]
+
+MATRIX
+XP_004031009.1          ----M----- ---------- ---------- ---------- ----------
+ABV22156                ---------- ---------- ---------- ---------- ----------
+XP_002773537.1          ----M----- ---------- ---------- ---------- -AAR----C-
+AAY96293.1              ----M--LSL RCL-QFQAVA R----S---Q ----CRALSL STAR----R-
+XP_002613574.1          ---------- ---------- ---------- ---------- ----------
+XP_001629337.1          ---------- ---------- ---------- ---------- ----------
+NP_036226.1             ----M----- ---------- ---------- ---------- ----------
+NP_036151.1             ----M----- ---------- ---------- ---------- ----------
+XP_002108078.1          ----MTSVSL --VTTF---A R--------- -----R-FS- STSR----L-
+ADX36414.1              ----M----- ---------- ---------- ---------- ----------
+NP_001027191.1          ----MRVLS- -C--KF--LG R-VVNSALPQ QIISLR--SL SKTS----A-
+AEA92625.1              ---------- ---------- ---------- ---------- ----------
+AAM65848.1              ----M----- ---------- ---------- ---------- ----------
+NP_001237663.1          ----M----- ---------- ---------- ---------- ----------
+CAQ56034.1              ----M----- ---------- ---------- ---------- ----------
+XP_002325005.1          ----M----- ---------- ---------- ---------- ----------
+EFN59443.1              ----M----- ---------- R-I------- ---------- ----------
+EIE22107.1              ---------- ---------- --T------- ---------- ----------
+XP_002956367.1          ----M----- ---------- --IAP----- ---------- ----------
+XP_001698498.1          ----M----- ---------- ---------- ---------- ----------
+XP_003060416.1          ---------- ---------- ---------- ---------- ----------
+XP_003082173.1          ----M----- ---------- R-V------- ---------- ---R------
+XP_638067.1             ----M----- ---------- ---------- ---------- ----------
+EFA74828.1              ----M----- ---------- ---------- ---------- ----------
+EME30410.1              ----M----- ---------- ---------- ---------- ----------
+CBN78919.1              ----M----- ---------- ---------- ---------- ----------
+CAQ52405.1              ----M----- ---------- ---------- ---------- ----------
+EKU23114.1              ----M----- ---------- ---------- ---------- ----------
+XP_005714665.1          ----MAFIT- ---HALPGLT RSTVP----- ---------- RTSR--F-IH
+XP_001758208.1          ----M----- -------G-- ---------- ---------- --S-------
+XP_002292020.1          ----M----- ---------- ---------- ---------- ----------
+PBANKA_021330           ----V----- ---------- ---------- ---------- ----------
+PY01475_exon2           ----V----- ---------- ---------- ---------- ----------
+PCHAS_021170_exon2      ----V----- ---------- ---------- ---------- ----------
+PCYB_022410_exon2       ----I----- ---------- ---------- ---------- ----------
+PVX_081760_exon2        ----I----- ---------- ---------- ---------- ----------
+PKH_021360_exon2        ----I----- ---------- ---------- ---------- ----------
+PF3D7_0729200_exon2     ----I----- ---------- ---------- ---------- ----------
+TGGT1_038055            ----L----- ---------- ---------- ---------- ----------
+NCLIV_014020            ----L----- ---------- ---------- ---------- ----------
+WP_017182087.1          ----M----- ---------- ---------- ---------- ----------
+WP_003510133.1          ----M----- ---------- ---------- ---------- ----------
+WP_003513894.1          ----M----- ---------- ---------- ---------- ----------
+WP_018065210.1          ----M----- ---------- ---------- ---------- ----------
+WP_009449921.1          ----M----- ---------- ---------- ---------- ----------
+YP_989434.1             ----M----- ---------- ---------- ---------- ----------
+YP_034080.1             ----M----- ---------- ---------- ---------- ----------
+NP_444105.1             ----M----- ---------- ---------- ---------- ----------
+WP_008883752.1          ----M----- ---------- ---------- ---------- ----------
+WP_007798629.1          ----M----- ---------- ---------- ---------- ----------
+YP_006572897.1          ----M----- ---------- ---------- ---------- ----------
+WP_007119512.1          ----M----- ---------- ---------- ---------- ----------
+WP_008328960.1          ----M----- ---------- ---------- ---------- ----------
+WP_010392270.1          ----M----- ---------- ---------- ---------- ----------
+YP_001891800.1          ----M----- ---------- ---------- ---------- ----------
+WP_004287651.1          ----M----- ---------- ---------- ---------- ----------
+YP_006316950.1          ----M----- ---------- ---------- ---------- ----------
+YP_001517986.1          ----M----- ---------- ---------- ---------- ----------
+YP_005071632.1          ----M----- ---------- ---------- ---------- ----------
+WP_009554039.1          ----M----- ---------- ---------- ---------- ----------
+YP_007159554.1          ----M----- ---------- ---------- ---------- ----------
+YP_007069293.1          ----M----- ---------- ---------- ---------- ----------
+YP_001734053.1          ----M----- ---------- ---------- ---------- ----------
+YP_343352.1             ----M----- ---------- ---------- ---------- ----------
+YP_004511903.1          ----M----- ---------- ---------- ---------- ----------
+NP_885227.1             ----M----- ---------- ---------- ---------- ----------
+YP_004681256.1          ----M----- ---------- ---------- ---------- ----------
+YP_005895931.1          ---------- ---------- ---------- ---------- ----------
+YP_003739564.1          ----M----- ---------- ---------- ---------- ----------
+NP_667659.1             ----M----- ---------- ---------- ---------- ----------
+WP_006233858.1          ----M----- ---------- ---------- ---------- ----------
+WP_001903937.1          MRNTM----- ---------- ---------- ---------- ----------
+YP_944754.1             ----M----- ---------- ---------- ---------- ----------
+WP_010555882.1          ----M----- ---------- ---------- ---------- ----------
+WP_005707035.1          ----M----- ---------- ---------- ---------- ---------S
+YP_390409.1             ----M----- ---------- ---------- ---------- --SQ-----A
+YP_694352.1             ----M----- ---------- ---------- ---------- ----------
+WP_007022141.1          ----M----- ---------- ---------- ---------- ----------
+YP_431497.1             ----M----- ---------- ---------- ---------- ----------
+YP_004872801.1          ----M----- ---------- ---------- ---------- --AQ---PTS
+XP_004338942.1          ----M----- ---------N R-TA------ ---------- SVSRTAFTV-
+NP_587706.1             ----M----- ---------- ---------- ---------- ----------
+EJY72164.1              ----M--I-- ---------- R--------- ---------- QQMR-----Y
+EWH17271.1              ----M----- ---------- ---------- ---------- ----------
+
+XP_004031009.1          ---------N NLI------- ----K--LQS KF-P--S--- --V-VL-TSI
+ABV22156                M------T-- --I------- ----A--VGS PL-P--T--- --T-TL----
+XP_002773537.1          F------S-- --V------- ----A--VGD AL-P--N--- --V-TV----
+AAY96293.1              M------P-- --I------- ----K--EGD KL-P--A--- --V-TV----
+XP_002613574.1          M------P-- --I------- ----K--VGD KL-P--G--- --V-DL----
+XP_001629337.1          M------P-- --I------- ----K--VGE AL-P--S--- --I-KV----
+NP_036226.1             A------P-- --I------- ----K--VGD AI-P--A--- --V-EV----
+NP_036151.1             A------P-- --I------- ----K--VGD AI-P--S--- --V-EV----
+XP_002108078.1          L------Q-- --I------- ----Q--VGD KL-P--S--- --I-AL----
+ADX36414.1              V------Q-- --I------- ----K--EGD QI-P--S--- --V-EL----
+NP_001027191.1          A------M-- --V------- ----K--VGD SL-P--S--- --V-DL----
+AEA92625.1              M------P-- --I------- ----K--VGD AL-P--D--- --V-KV----
+AAM65848.1              A------P-- --I------- ----A--VGD VV-P--D--- --G-TI-SF-
+NP_001237663.1          A------P-- --I------- ----A--VGN VI-P--D--- --G-IL-AY-
+CAQ56034.1              A------P-- --I------- ----A--VGD AI-P--D--- --G-TL-AY-
+XP_002325005.1          A------P-- --I------- ----A--VGD VL-P--D--- --G-KL-AY-
+EFN59443.1              Q------A-- --I------- ----A--EGD KL-PA-D--- --V-KL-NY-
+EIE22107.1              Q------A-- --L------- ----A--VGD KL-PG-D--- --I-KL-NY-
+XP_002956367.1          Q------A-- --I------- ----A--VGQ KL-P--D--- --A-KF-KY-
+XP_001698498.1          -------P-- --I------- ----A--VGD KV-P--A--- --A-TF-HV-
+XP_003060416.1          A------A-- --V------- ----K--EGD RV-P--E--- --A-VL-QH-
+XP_003082173.1          ARGIDRPP-- --I------- ----E--VGE TL-PG-E--- --A-SV-AY-
+XP_638067.1             -------SVK SVI------- ----K--VGE KV-PM-D--- --V-TLGKAL
+EFA74828.1              -------T-- --I------- ----Q--VG- -V-PF-D--- --V-TLWKAA
+EME30410.1              M------I-- --I------- ----S--NGS RF-PE-D--- --V-TF-TT-
+CBN78919.1              -------A-- --I------- ----K--EGD KF-PM-D--- --S-TF-QI-
+CAQ52405.1              -------A-- --I------- ----K--EGD KF-PA-G--- --T-SF-QI-
+EKU23114.1              A------K-- --I------- ----A--EGQ TL-PL-E--- -KI-TF-KV-
+XP_005714665.1          AT-----SPT MLL------- ----S--KGD KM-PM-D--- --V-DL-MV-
+XP_001758208.1          A------A-K ---------- ----K--I-D -LES--D--- --V-ALQEAR
+XP_002292020.1          A------SVD E-V------- ----K--VGD KI-P--S--- --V-VL-KEG
+PBANKA_021330           ---------D --V------- --------GN -I----G--- I-VNNFGE--
+PY01475_exon2           ---------D --V------- --------GN -I----G--- I-VNNFGE--
+PCHAS_021170_exon2      ---------D --V------- --------GN -I----G--- N-VNSYGE--
+PCYB_022410_exon2       ---------D --V------- ----K----N -M----S--- G---T-----
+PVX_081760_exon2        ---------D --V------- ----H----N -M----S--- G---T-----
+PKH_021360_exon2        ---------D --V------- ----K----N -M----N--- G---T-----
+PF3D7_0729200_exon2     ---------D --V------- ----R----N -M----N--- N-I-S-----
+TGGT1_038055            ---------- ---------- ----S--EGD PA-P--E--- --C-VW-KVR
+NCLIV_014020            ---------- ---------- ----S--EGD PV-P--G--- --C-VW-RVR
+WP_017182087.1          ---------- ---------- -------LGR SV-P--N--- --I-TL-KTR
+WP_003510133.1          ---------- ---------- -------LGK KV-P--A--- --V-TF-RTR
+WP_003513894.1          ---------- ---------- -------LGK KV-P--A--- --V-TF-RTR
+WP_018065210.1          ---------- ---------- -------IGR KV-P--N--- --V-TF-RTR
+WP_009449921.1          ---------- ---------- -------TVR KV-P--D--- --V-TF-RTR
+YP_989434.1             ---------- ---------- -------VRR KI-P--N--- --V-TF-HTR
+YP_034080.1             ---------- ---------- -------IRK TV-P--N--- --T-TF-HTR
+NP_444105.1             ---------- ---------- ----P--VKK RV-P--F--- --V-AF-RTR
+WP_008883752.1          ---------- ---------- ----K--TNA KL-P--D--- --V-TF-RTR
+WP_007798629.1          ---------- ---------- ----K--TGM KL-P--D--- --V-TF-RTR
+YP_006572897.1          ---------- ---------- ----K--AGV KL-P--D--- --V-TF-RTR
+WP_007119512.1          ---------- ---------- ----K--PGI QV-P--N--- --V-TF-KTR
+WP_008328960.1          ---------- ---------- ----N--VGD RI-P--A--- --C-TF-KTR
+WP_010392270.1          ---------- ---------- ----K--PGD QL-P--Q--- --V-TF-RTR
+YP_001891800.1          ---------- ---------- --------TK KV-P--N--- --V-TF-KTR
+WP_004287651.1          ---------- ---------- --------TK RV-P--N--- --V-TF-KTR
+YP_006316950.1          ---------- ---------- --------TK RV-P--N--- --V-TF-KTR
+YP_001517986.1          ---------- ---------- ----AVFATE RV-P--D--- --V-VF-KTR
+YP_005071632.1          ---------- ---------- -------VIE KV-P--D--- --V-VF-KTR
+WP_009554039.1          ---------- ---------- ----A--AVT RV-P--N--- --V-VF-KTR
+YP_007159554.1          ---------- ---------- ----A--VIE TV-P--N--- --V-VF-KTR
+YP_007069293.1          ---------- ---------- ----A--VIT KV-P--N--- --V-VF-KTR
+YP_001734053.1          ---------- ---------- ---------A RV-P--D--- --V-VF-KTR
+YP_343352.1             ---------- ---------- ----H--RIE YV-P--D--- --A-TF-KTR
+YP_004511903.1          ---------- ---------- --------SE TV-P--S--- --V-VF-KTR
+NP_885227.1             L------Q-N ---------- ----R--EGQ RV-P--S--- --V-TF-PVR
+YP_004681256.1          L------Q-S ---------- ----R--EGQ RV-P--N--- --V-AF-RMR
+YP_005895931.1          M------Q-D ---------- ----R--TGQ KV-P--S--- --V-VF-RTR
+YP_003739564.1          F------A-S ---------- ----Q--EGK SV-P--Q--- --V-TF-HTR
+NP_667659.1             F------T-S ---------- ----Q--EGK KV-P--Q--- --V-TF-HTR
+WP_006233858.1          F------A-S ---------- ----K--EGQ AV-P--Q--- --V-TF-HTR
+WP_001903937.1          F------T-S ---------- ----K--EGQ TI-P--Q--- --V-TF-PTR
+YP_944754.1             L------D-N ---------- ----I--EGQ KI-P--N--- --V-TF-PTR
+WP_010555882.1          L------K-N ---------- ----I--EGQ TI-P--N--- --V-TF-ATR
+WP_005707035.1          L------K-D ---------- ----M--TGQ KV-P--S--- --V-TF-HTR
+YP_390409.1             L------E-N ---------- ----K--EGQ TV-P--S--- --V-VW-PTR
+YP_694352.1             F------E-N ---------- ----R--EGQ PV-P--A--- --V-TF-RTR
+WP_007022141.1          L------Q-N ---------- ----S--EGK NI-P--Q--- --V-TF-HTR
+YP_431497.1             L------Q-S ---------- ----R--EGQ TV-P--S--- --V-TF-NLR
+YP_004872801.1          L------P-N ---------- ----Q--EGK KV-P--D--- --V-TW-PVR
+XP_004338942.1          A------ARQ TTVRGSQALF ARSYA--VGQ NL--L-E--- GQA-NL-KA-
+NP_587706.1             ---------- --V------- ----A--VGS TL-P--K--- --V-TL----
+EJY72164.1              F------S-- --V------- ----K--IGD KF-P--S--- --A-VV-AI-
+EWH17271.1              -------S-D --L------- -------VNK KF-PAGDYKF QYI-AISQSD
+
+XP_004031009.1          QAI----E-G TC---G---- --G---T--I QKYNTEELF- K-NKRVVLFS
+ABV22156                --F----E-- -----T---- --S---P--D DKKTLADVF- G-KKKGILFG
+XP_002773537.1          --R----E-- -----A---- --D---P--G DTKSLRDIF- G-NDKGILFG
+AAY96293.1              --F----G-- -----A---- --T---P--N DKVNMAELF- A-GKKGVLFA
+XP_002613574.1          --Y----E-- -----N---- --T---P--G NKVNVSELF- A-GKKGVIFA
+XP_001629337.1          --M----E-- -----G---- --T---P--K DTVDVASLF- K-GKKGILFA
+NP_036226.1             --F----E-- -----G---- --E---P--G NKVNLAELF- K-GKKGVLFG
+NP_036151.1             --F----E-- -----G---- --E---P--G KKVNLAELF- K-GKKGVLFG
+XP_002108078.1          --H----Q-- -----N---- --S---P--G NKVDIRQLF- A-NKKGILFA
+ADX36414.1              --F----E-- -----D---- --S---P--A NKINIADIS- K-NKKIVLFA
+NP_001027191.1          --F----E-- -----D---- --S---P--A NKINTGDLV- N-GKKVIIFG
+AEA92625.1              --F----E-- -----G---- --T---P--G GEVKLRDLF- A-GKKGVIVA
+AAM65848.1              --F--D-E-- -----N---- --D---Q--L QTVSVHSLA- A-GKKVILFG
+NP_001237663.1          --L--D-E-- -----E---- --N---K--P QTVSIHSLA- T-GKKVIIFG
+CAQ56034.1              --L--D-E-- -----E---- --N---K--P QSVSIHSLS- A-GKKVIIFG
+XP_002325005.1          --F--D-E-- -----Q---- --D---Q--L QEVSVHSLV- A-GKKVILFG
+EFN59443.1              --F--D-A-- -----E---- --G---N--M QEVAVGSLT- K-GKKVVLFA
+EIE22107.1              --F--D-K-- -----E---- --N---N--M QEISVEELT- K-GKKTVILA
+XP_002956367.1          --F--D-G-- -----E---- --G---Q--M RDVTTEELC- K-GKKVVLFA
+XP_001698498.1          --P--D-A-- -----N---- --G---M--P QPLTTEQLF- G-GKKVLLFA
+XP_003060416.1          --F--D-S-- -----E---- --G---E--L RKVSTAELC- GDGKTVVLFA
+XP_003082173.1          --V--D-D-- -----D---- --G---A--L VRARAGDLW- A-KRRVVVFA
+XP_638067.1             PPV--D---- ---------- --GVC-AM-A PKVLSGELF- K-DRKVVLFA
+EFA74828.1              V-IKED-E-- SLFTYNYKQQ FTGTC-PI-P QKTTSKDLF- E-NKKVVLFA
+EME30410.1              --L----Q-- -----E---- --G---Q--V KEMKASEIF- N-GKKVVIFG
+CBN78919.1              --K----G-- -----D---- --A---G--P ADVPASEIF- A-GKKVVICG
+CAQ52405.1              --L----G-- -----D---- --G---G--P ADVPAADVF- A-GKKVVICG
+EKU23114.1              --L----K-- -----D---- --G---K--A TDLTGTDLF- K-GKKVVLFG
+XP_005714665.1          --L----K-- -----D---- --G---A--P TTVSTASIF- Q-SKKVAVVT
+XP_001758208.1          T-W--D-E-- ---------- --GVSTK--F STTPVSEIF- K-GKKVAIFG
+XP_002292020.1          QA---DYE-- -----K---- ------P--- VDVNIGELI- A-GKKVALFA
+PBANKA_021330           -----E-EKK S----P---- --IEESP--F RSIDTHELF- K-SKRILLIS
+PY01475_exon2           -----E-EKK S----S---- --GEESP--F RSIDTHELF- K-SKRILLIS
+PCHAS_021170_exon2      -----E-ERK S----P---- --DDKSP--F RSIDTHELF- K-SKRILLIS
+PCYB_022410_exon2       -----D-Q-- -----P---- --GEEND--F KAIDTHELF- K-NKKILLIS
+PVX_081760_exon2        -----D-Q-- -----P---- --GEEND--F KAIDTHELF- K-NKKILLIS
+PKH_021360_exon2        -----D-H-- -----P---- --GEEND--F KAIDTHELF- K-NKKILLIS
+PF3D7_0729200_exon2     -----D-T-- -----D---- --GSPND--F TSIDTHELF- N-NKKILLIS
+TGGT1_038055            A------A-- AP---E---- --G---GMTW AELESTTMF- K-NKRVVIFS
+NCLIV_014020            T------A-- AP---N---- --G---EKTW ADLESDAMF- K-NKRVVVFS
+WP_017182087.1          VR---D-E-- SV---E---- --G-PNQFRW EDVHTGDLF- A-GKRAVVFS
+WP_003510133.1          VR---D-E-- AV---G---- --G-PNPFRW QDMTSDDYF- K-GKKVVLFS
+WP_003513894.1          VR---D-E-- AV---G---- --G-PNPFRW QDMTSDDYF- K-GKKVVLFS
+WP_018065210.1          VR---D-E-- SI---E---- --G-PNPFRW QDMTSDDYF- K-GKRVVLFS
+WP_009449921.1          VR---D-E-- AI---E---- --G-PNPFRW EDKTTADYF- A-GKRVVLFS
+YP_989434.1             VR---D-E-- SI---G---- --G-ENPYRW QDVNSDAYF- K-GKRVILFS
+YP_034080.1             VR---D-E-- SI---G---- --G-DNPYRW QEVNSDAYF- K-GKRVILFS
+NP_444105.1             VR---D-E-- TI---G---- --G-PNPYRW EVRTTEDYF- S-GKRVVLFS
+WP_008883752.1          VR---D-E-- SI---E---- --G-PNPFRW QDMTTADYF- A-GKRVILFS
+WP_007798629.1          VR---D-E-- AV---G---- --G-PNPFRW QDMTTADYF- A-GKRVVLFA
+YP_006572897.1          VR---D-E-- SV---G---- --G-PNPFRW EDKTTADYF- A-GKRVVLFS
+WP_007119512.1          VR---D-D-- SI---E---- --G-NNPFRW EDKTSEDFF- K-GKRVVLFS
+WP_008328960.1          VR---D-E-- SV---G---- --G-PNPFRW QDMTSDDYF- A-GKRVVLFS
+WP_010392270.1          VR---D-E-- SV---G---- --G-PNPYRW QDMTTDDYF- K-GKRVVLFS
+YP_001891800.1          VR---D-E-- SI---G---- --G-SNSFRW QDVTSADIF- D-NKRVIVFS
+WP_004287651.1          VR---D-E-- SI---G---- --G-SNPFRW QDVTSADIF- D-NKRVIVFS
+YP_006316950.1          VR---D-E-- SI---G---- --G-SSPFKW QDVTSSDIF- D-NKRVIVFS
+YP_001517986.1          VR---D-E-- SV---P---- --G-PNPYRW QDKTTQDIF- G-GKRVVLFS
+YP_005071632.1          VR---D-E-- SV---G---- --G-PNPFRW QDRTTQEIF- G-GKRVVVFS
+WP_009554039.1          VR---D-E-- SV---E---- --G-PNPFRW QDRTTQEIF- G-GKRVVVFS
+YP_007159554.1          VR---D-E-- SI---G---- --G-PNPFRW QERTTQELF- A-GKRVVVFS
+YP_007069293.1          VR---D-E-- SI---G---- --G-TNPFRW QDRTTQEIF- A-GKRVVVFS
+YP_001734053.1          VR---D-E-- SV---E---- --G-PNPYRW EDKTTADIF- G-GKKVVLFS
+YP_343352.1             VR---D-E-- SL---E---- --G-SNPYRW QDITSKEIF- A-GKKVIVFS
+YP_004511903.1          VR---D-E-- SI---G---- --G-DNPFRW QDVSSDDIF- K-GKKVVVLA
+NP_885227.1             EN---N-A-- ---------- ---------W KQVTTDDVF- K-NKTVVVFS
+YP_004681256.1          ED---N-E-- ---------- ---------W KTVTTGELF- N-GKTVVVFS
+YP_005895931.1          VG---D-T-- ---------- ---------W KDVSTDDLF- K-GKKVVVFS
+YP_003739564.1          QG---D-N-- ---------- ---------W VDVTTDELF- K-DKTVILFS
+NP_667659.1             QG---D-Q-- ---------- ---------W IDVTTDDLF- S-NKTVIVFS
+WP_006233858.1          QG---D-A-- ---------- ---------W VDVTTEELF- A-NKTVVLFS
+WP_001903937.1          QG---D-A-- ---------- ---------W VNVTSDELF- K-GKTVIVFS
+YP_944754.1             QG---D-Q-- ---------- ---------W VNVSTDELF- A-GKTVVVFA
+WP_010555882.1          QN---D-E-- ---------- ---------W KSVTTDEIF- K-GRTVAVFS
+WP_005707035.1          QG---D-T-- ---------- ---------W VDVTTDEIF- N-NKKVVVFS
+YP_390409.1             QN---N-E-- ---------- ---------W VNVKSDDIF- K-GRTVVVFS
+YP_694352.1             EG---N-E-- ---------- ---------W KDVTTDDVF- K-GKTVVVFA
+WP_007022141.1          QG---N-D-- ---------- ---------W VDVTSEQLF- K-GKTVIVFA
+YP_431497.1             EG---E-K-- ---------- ---------W VQVTTDDLF- K-GKNVIVFA
+YP_004872801.1          SG---D-E-- ---------- ---------W KKMSSKEIF- S-GRRVILFS
+XP_004338942.1          --V--D---- ---------- --G------- KDLSLTDLF- K-GKKVVVFG
+NP_587706.1             --W----E-- -----N---- --K---P--- EEV--VEFP- S-QGKFIIVG
+EJY72164.1              VKY--D-K-- D----E---- --GY--S--N EIVDINEYL- E-KKNVVLVG
+EWH17271.1              A----DSE-- SC---K---- -----MP--- QTVEWSKLIS E-NKKVIITG
+
+XP_004031009.1          VPGAFTPTCS AQHVPGFLKL ANDF-KTQK- NVQLIVCVSV NDVYVMDAWR
+ABV22156                VPGAFTPTCD QTHLPGYLKD YEKL-K-EK- GVEVIACMAV NDSFVMQAWG
+XP_002773537.1          VPGAFTPTCD QSHLPGFIRD YDKL-Q-QK- GVKTVACMAV NDPFVMQAWG
+AAY96293.1              VPGAFTPGCS KTHLPGYVEQ AAAI-H-GK- GVDIIACMAV NDSFVMDAWG
+XP_002613574.1          VPGAFTPGCS KTHLPGFVSR AGDL-Q-AK- GVEVIACVSV NDPFVMEAWG
+XP_001629337.1          VPGAFTPGCS KTHLPGYVAD FDKI-K-SK- GVDVVACIAV NDPFVMSAWG
+NP_036226.1             VPGAFTPGCS KTHLPGFVEQ AEAL-K-AK- GVQVVACLSV NDAFVTGEWG
+NP_036151.1             VPGAFTPGCS KTHLPGFVEQ AGAL-K-AK- GAQVVACLSV NDVFVIEEWG
+XP_002108078.1          VPGAFTPGCS KTHLPGYLQH YDNF-K-SK- GIDVIACVSV NDAFVVDAWS
+ADX36414.1              VPGAFTPGCS KTHLPSYLEK EKDL-K-SG- GVDEIVCVSV NDPFVMSAWG
+NP_001027191.1          VPGAFTPGCS KTHLPGYVSS ADEL-K-SKQ GVDEIVCVSV NDPFVMSAWG
+AEA92625.1              VPGAFTPGCS KTHLPGYVQN FDKF-K-AA- GADIVACLAT NDPFVMSAWG
+AAM65848.1              VPGAFTPTCS MKHVPGFIEK AEEL-K-SK- GVDDIICFSV NDPFLMKAWG
+NP_001237663.1          VPGAFTPTCS LKHVPGFIER AEEL-K-GK- DVDEIICISV NDPFVMNSWA
+CAQ56034.1              VPGAFTPTCS LKHVPGFIER AEEL-K-GK- GVDEIICISV NDPFVLNSWA
+XP_002325005.1          VPGAFTPTCS LKHVPGFIEK AGEL-K-SK- GVTEILCISV NDPFVMKAWA
+EFN59443.1              VPGAFTPTCS LKHLPGFIEK ADEL-R-AK- GVDTIACVSV NDAFVMDAWG
+EIE22107.1              VPGAFTPTCS LKHLPGFVEK AEEI-K-AK- GVDTIACVAV NDAFVMDAWS
+XP_002956367.1          VPGAFTPTCS LKHVPGFVDK ADEL-K-NK- GVDTIACVSV NDAFVMAAWG
+XP_001698498.1          VPGAYTPTCS KQHLPGFVES ADAL-K-AK- GVDTIACLSV NDAFVMGAWG
+XP_003060416.1          VPGAFTPTCS LKHLPGFIKL ADEM-K-DA- GADDVVCVSV NDAFVMRAWE
+XP_003082173.1          VPGAFTPTCS NKHLPGYVRL AEEF-R-AR- GVDDVMCVSV NDAFVMNAWG
+XP_638067.1             VPGAFTPTCS AKHLPGFIEK SEEI-K-KK- GISEIFCIAT NDPFVMSAWG
+EFA74828.1              LPG----TCS GNHLPGYVEH AGEI-K-SK- GIDSIICLST NDSFVMSYWA
+EME30410.1              VPGAFTPSCS DKHLPGFAEN FDKF-K-EK- GIDTVICLAA NDPYVMNAWA
+CBN78919.1              VPGAFTPTCD DNHLPSFIAN ADKF-K-EK- GVDTVACMSV NDAFVMSRWI
+CAQ52405.1              VPGAFTPTCS DDHLPSFIAL ADEF-K-AK- GVDTVACLSV NDAFVMSRWI
+EKU23114.1              VPGAFTPTCT NTHAPEYLAM YESF-K-AK- GVDAIYCIAS NDCFVTSAWA
+XP_005714665.1          FPGAFTSTCQ NGHVPLWIKA VDDF-K-AK- GCDDVVALAV NDPFVMDAFA
+XP_001758208.1          LPGAFTGVCS QKHVPSFLNN SDKL-K-SK- GIDSIVCVSV NDPYTMNAWA
+XP_002292020.1          VPGAFTPGCS KSHLPSFITA QKEL-R-EK- GVDLTICIAT NDAYVMEAWG
+PBANKA_021330           LPGAFTPLCT SKMIPEYEKE YDSFIR-EN- KFDDIYCITN NDIYVLKSWF
+PY01475_exon2           LPGAFTPLCT SKMIPEYEKE YDNFIR-EN- KFDDIYCITN NDIYVLKSWF
+PCHAS_021170_exon2      LPGAFTPLCT SKMIPEYEKE YDNFII-EN- KFDDIYCITN NDIYVLKSWF
+PCYB_022410_exon2       LPGAFTPTCT SKMIPQYESE YDFFIK-EN- KFDDIYCITN NDIFVLKSWF
+PVX_081760_exon2        LPGAFTPTCT SKMIPQYEDE YDFFIK-EN- KFDDIYCITN NDIFVLKSWF
+PKH_021360_exon2        LPGAFTPTCT SKMIPQYEAE YDFFIK-EN- KFDDIYCITN NDIFVLKSWF
+PF3D7_0729200_exon2     LPGAFTPTCS TKMIPGYEEE YDYFIK-EN- NFDDIYCITN NDIYVLKSWF
+TGGT1_038055            LPGAFTPTCS SRHLPDFDKE YDAI-R-AL- GIDEVYCLSV NDTFVMNAWA
+NCLIV_014020            LPGAFTPTCS SRHLPDFEKE YESI-L-SL- GVDEVYCLSV NDSFVMNAWA
+WP_017182087.1          LPGAFTPTCS TEQCPAFERY YDDF-K-AL- GVDDVYCVSV NDAFVMFQWG
+WP_003510133.1          LPGAFTPTCS TYQLPDFEKL APEF-R-AL- GVDEIYCLSV NDAFVMNAWA
+WP_003513894.1          LPGAFTPTCS TYQLPDFEKL AGEF-R-AL- GVDEIYCLSV NDAFVMNAWA
+WP_018065210.1          LPGAFTPTCS TYQLPDFEKL FPEF-Q-AQ- GIDDIYCMSV NDAFVMNAWA
+WP_009449921.1          LPGAFTPTCS TFQLPDFEKL YGEF-Q-AQ- GIDEIYCISV NDAFVMNAWG
+YP_989434.1             LPGAFTPTCS NFQLPDFEKL YDDF-K-KI- GIDDIYCLSV NDTFVMNAWG
+YP_034080.1             LPGAFTPTCS TFQLPDFEKL YDEF-K-KV- GIDEIYCLSV NDAFVMNAWG
+NP_444105.1             LPGAFTPTCS TQQLPDFERL YDEF-G-KV- GIEAVYCLSV NDAFVMNAWG
+WP_008883752.1          LPGAFTPTCS TYQLPGFENN FEEF-K-AN- GIDEIYCLSV NDSFVMNQWA
+WP_007798629.1          LPGAFTPTCS TYQLPGFENG FADF-Q-AA- GVDEIYCLSV NDSFTMNKWA
+YP_006572897.1          LPGAFTPTCS TYQLPGFEKG FADF-Q-AE- GIDAIYCMSV NDSFVMNKWA
+WP_007119512.1          LPGAFTPTCS TYQLPGFENN FAAF-Q-EH- GIDGIYCLSV NDSFVMNKWK
+WP_008328960.1          LPGAFTPTCS TYQLPGFEKG FSDF-A-AQ- GIDEIYCMSV NDSFVMNKWA
+WP_010392270.1          LPGAFTPTCS TYQLPGFEKA AAEM-A-EL- GIEAIYCLSV NDSFVMNQWA
+YP_001891800.1          LPGAFTPTCS TYQLPGFENN AARF-K-EL- GIDEIYVLSV NDSFVMNKWI
+WP_004287651.1          LPGAFTPTCS TYQLPGFENN AARF-K-EL- GIDEIYVLSV NDSFVMNKWI
+YP_006316950.1          LPGAFTPTCS TYQLPGFENN AARF-K-EL- GIDEIYVLSV NDSFVMNKWI
+YP_001517986.1          LPGAFTPTCS STHLPRYEEL HEEI-K-AQ- GVDEIICLSV NDAFVMFQWG
+YP_005071632.1          LPGAFTPTCS STHLPRYEEL YDEI-K-AQ- GIDEIVCVSV NDAFVMFQWG
+WP_009554039.1          LPGAFTPTCS STHLPRYEEL YDEI-R-AQ- GIDQVICISV NDAFVMFQWG
+YP_007159554.1          LPGAFTPTCS TSHLPRYEEL YKDF-Q-AL- GVDSVICVSV NDAFVMFQWG
+YP_007069293.1          LPGAFTPTCS TSHLPRYEEL YQDF-K-AL- GVDQVICISV NDAFVMFQWG
+YP_001734053.1          LPGAFTPTCS SNHLPRYEEL YSEF-Q-AQ- GVDEIICLSV NDAFVMFKWG
+YP_343352.1             LPGAFTPTCS SNHLPRYEEL YDEF-K-AM- GIDEIYCISV NDAFVMFQWS
+YP_004511903.1          LPGAFTPTCS STHLPGYEAK YQDI-I-AQ- GVDEVYCLSV NDAFTMFQWA
+NP_885227.1             LPGAFTPTCS STHLPRYNEL APAF-F-AA- GVDSIVCVSV NDTFVMNEWA
+YP_004681256.1          LPGAFTPTCS STHLPRYNEL APVF-A-KH- GVDDILCVSV NDTFVMNEWA
+YP_005895931.1          LPGAFTPTCS SSHLPRYNEL FGAF-K-EN- GVDAIYCVSV NDTFVMNAWA
+YP_003739564.1          LPGAFTPTCS SSHLPRYNEL SDVF-K-KH- GVDSILCVSV NDTFVMNAWK
+NP_667659.1             LPGAFTPTCS SSHLPRYNEL AGVF-K-QH- GVDSILCVSV NDTFVMNAWK
+WP_006233858.1          LPGAFTPTCS SSHLPRYNEL ASVF-A-EH- GVDEIVCVSV NDTFVMNAWK
+WP_001903937.1          LPGAFTPTCS STHLPRYNEL YPVF-K-EN- GVDSILCVSV NDTFVMNAWK
+YP_944754.1             LPGAFTPTCS SMHLPRYNEL AGVF-K-EN- GVDEIICSSV NDTFVMNSWI
+WP_010555882.1          LPGAFTPTCS STHLPRYNEL AGVF-K-QN- GVDEIVCLSV NDTFVMNAWA
+WP_005707035.1          LPGAFTPTCS STHLPRYNEL AKEF-Y-AL- GVDEIVCLSV NDTFVMNAWK
+YP_390409.1             LPGAFTPTCS SSHLPRYNEL APVF-F-EN- GVDEIVCLSV NDTFVMNEWA
+YP_694352.1             LPGAFTPTCS STHLPRYNEL APVL-K-AN- GVDDIVCLSV NDGFVMNAWA
+WP_007022141.1          LPGAFTPTCS STHLPRYNEL APVF-A-AN- GVDEIICLSV NDTFVMNAWA
+YP_431497.1             LPGAFTPTCS STHLPRYNEL APVF-K-QN- GIDAIICLSV NDTFVMNSWK
+YP_004872801.1          LPGAFTPTCS STHLPRYNQL ASTF-K-KL- GIDEVCCMSV NDTFVMNAWL
+XP_004338942.1          LPGAFTPVCT SRHVPGYVDS ADKF-K-AK- GVDNVVCVSV NDPFVMKAWG
+NP_587706.1             VPGAFTPPCS S-QVPGYIAN EKQF-A-AK- GISGIYVVAV NDVFVTKAWK
+EJY72164.1              YPGCFTPTCQ SQQLPQFLKA SDEL-K-QQ- GADEILALSV NDPFVVTAFA
+EWH17271.1              APAAFSPTCT VSHIPGYINY LDELVK-EK- EVDQVIVVTV DNPFANQAWA
+
+XP_004031009.1          QNQ--GIKNN --EILMLSDP NGQLAQQTGL TLDLI--DK- GLG-L-RMKR
+ABV22156                KAS--GAD-G --KIHMLADI KADTAKALGV DFDVT--PVL G-N-V-RCKR
+XP_002773537.1          KIK--GAD-G --KVRMLSDV DGEAAKALGT NFDAT--DVL G-P-I-RTKR
+AAY96293.1              KAH--GAD-D --KVQMLADP GGAFTKAVDM ELDLS--AVL G-N-V-RSKR
+XP_002613574.1          RDQ--KAE-G --KVRMLADT GAEFTKAIGL DLDAT--AIL G-N-I-RSKR
+XP_001629337.1          EAN--GCQ-G --KIQMLADV HGEFTKAVDL ELDAT--PFL G-N-I-RSKR
+NP_036226.1             RAH--KAE-G --KVRLLADP TGAFGKETDL LLDDSLVSIF G-N-R-RLKR
+NP_036151.1             RAH--QAE-G --KVRLLADP TGAFGKATDL LLDDSLVSLF G-N-R-RLKR
+XP_002108078.1          KSN--NVD-D --RLEMLADT SAQFTKSVGL DFDAT--PVL G-N-I-RSKR
+ADX36414.1              NQF--NTK-G --KIRMLADP NAAFTKAVDL SLDLP--P-L G-G-L-RSKR
+NP_001027191.1          KEH--GAA-G --KVRLLADP AGGFTKALDV TIDLP--P-L G-G-V-RSKR
+AEA92625.1              EAQ--GAT-G --KVRMLSDM NAEATKAFDL GMDA-----M GL--T-RAQR
+AAM65848.1              KTY--PEN-K --HVKFVADG SGEYTHLLGL ELDLK--DK- GLG-I-RSRR
+NP_001237663.1          KTF--PEN-K --HVKFLADG AAKYTNALGL ELDLT--DK- GLG-V-RSKR
+CAQ56034.1              KTF--PEN-K --HVKFLADG SAKYTHALGL ELDLT--DK- GLG-I-RSRR
+XP_002325005.1          KSY--PEN-K --HVKFLADG SATYTHALGL ELDLQ--EK- GLG-T-RSRR
+EFN59443.1              KSV--GAD-G --KVMMLADG SAVFAQAIGA ELDLA--DK- GLG-V-RSRR
+EIE22107.1              KSV--DVG-D --KILMLADG SAIFTKAIGA ELDLS--DK- GLG-I-RSRR
+XP_002956367.1          KDL--KAG-D --KVLMLADG NGQFTKALGV ELDLI--DK- GLG-T-RSRR
+XP_001698498.1          QSI--GVG-D --KVTMLADG AAAFTKAVGL DQDLS--EA- GLG-V-RSQR
+XP_003060416.1          KSG--AFGSG --RVLLLADG SCLFTRAMDA ELDLN--EK- GLG-V-RSRR
+XP_003082173.1          ETA--GARKA --RVRMVADG SATLARAMGT DLDLS--EQ- GMG-T-RSRR
+XP_638067.1             KDV--NAG-T --AVTLLSDG NSEFTKKIGL EMDGK--AFL -LGED-RSQR
+EFA74828.1              KDR--NVG-D --AVQLIADG NSEFTQKVGL IMDGS--AF- GMGAL-RSKR
+EME30410.1              KQK--GVD-G --KILMLSDG SGAVLEELGL SVNTG--NF- G-G-R-RARR
+CBN78919.1              KSL--DAE-D --KVTMLADG GAVFAEESGL CVKTG--KF- G-G-T-RLQR
+CAQ52405.1              KSL--DAA-D --KVTMLADG GGVFAEESGL CVKTG--KF- G-G-T-RLQR
+EKU23114.1              KSL--DAG-D --KVSILADG DCGFAKLVGL TVETG--GF- G-G-L-RLSR
+XP_005714665.1          NVI--GNE-G --KVTFLADG GAKLTKAIGI EVDTD--GF- G-G-V-RSYR
+XP_001758208.1          EKL--GAK-D --KIKFYGDF DGKFHKSLGL DLDLS--GAL -LG-P-RSQR
+XP_002292020.1          RTS--GGA-D A-GIRFLSDA NAELSRALGL SMEND--VM- ----V-RTKR
+PBANKA_021330           KNM--DIK-- --KIKYISDG NSSFTESMNM LVDKS--NYF -MG-M-RPWR
+PY01475_exon2           KSM--DIK-- --KIKYISDG NSSFTESMNM LVDKS--NYF -MG-M-RPWR
+PCHAS_021170_exon2      KDM--GIK-- --KIKYISDG NSSFTESMNM LVDKS--NYF -MG-M-RPWR
+PCYB_022410_exon2       KDM--KIK-- --KVKYVSDG NSSFTESMNM LVDKS--NFF -MG-M-RPWR
+PVX_081760_exon2        KNM--NIK-- --KVKYVSDG NSSFTESMNM LVDKS--NFF -MG-M-RPWR
+PKH_021360_exon2        KDM--KIK-- --KVKYVSDG NSSFTESMNM LVDKS--NFF -MG-M-RPWR
+PF3D7_0729200_exon2     KSM--DIK-- --KIKYISDG NSSFTESMNM LVDKS--NFF -MG-M-RPWR
+TGGT1_038055            SSL--NVK-- --HVKMIPDG NGCFTSKMGM LVDKT--NL- GFG-P-RSWR
+NCLIV_014020            SSL--NVK-- --NVKMIPDG NGCFTSRMGM LVDKT--NL- GFG-P-RSWR
+WP_017182087.1          KHL--GVS-- --NVKLLPDG SGDFTRRMGM LIKKN--HL- GFG-D-RSWR
+WP_003510133.1          KGQ--NLE-- --NVKVIPDG SGEFTRKMGM LVAKD--NL- GFG-M-RSWR
+WP_003513894.1          KGQ--NLE-- --NVKVIPDG SGEFTRKMGM LVAKD--NL- GFG-M-RSWR
+WP_018065210.1          KGQ--NLE-- --HVKVIPDG SGEFTRKMGM LVNKD--NL- GFG-M-RSWR
+WP_009449921.1          KSQ--GLK-- --NVKLIPDG SGEFTRKMGM LVAKD--NL- GFG-M-RSWR
+YP_989434.1             KKQ--GIK-- --NVKLIPDG SGEFTRKMGM LVEKT--NI- GFG-M-RSWR
+YP_034080.1             KAQ--GIK-- --NVKLIPDG SGEFTRKMGM LVAKD--NV- GFG-M-RSWR
+NP_444105.1             KAL--GLE-- --KVRLIPDG SGEFTRKMGM LVAKD--NL- GFG-M-RSWR
+WP_008883752.1          KAQ--GIK-- --NVKVIPDG SGEFTRRMGM LVNKD--NL- GFG-P-RSWR
+WP_007798629.1          ELQ--GIS-- --NVKVIPDG SGDFTRRMGM LVAKD--NL- GFG-A-RSWR
+YP_006572897.1          ESQ--NLK-- --NVGVIPDG SGEFTRRIGM LVAKD--NL- GFG-N-RSWR
+WP_007119512.1          EMQ--GVE-- --NIDVIPDG SGEFTRRMGM LVAKD--NL- GFG-A-RSWR
+WP_008328960.1          IDQ--GLT-- --NVKVIPDG SGEFTKAMGM LVAKD--NL- GFG-A-RSWR
+WP_010392270.1          KAQ--DLK-- --NVKVIPDG SGEFTEKVGM LVRKD--NL- GFG-A-RSWR
+YP_001891800.1          QVQ--GIQ-- --NIKPIPDG NGEFTEALDM LVDKS--NI- GFG-K-RSWR
+WP_004287651.1          QAL--DVK-- --NIKPIPDG NGEFTEALDM LVDKS--NL- GFG-K-RSWR
+YP_006316950.1          QAL--DVK-- --NIKPIPDG NGEFTEALDM LVDKS--NL- GFG-K-RSWR
+YP_001517986.1          KHQ--GAD-- --KVFLLPDG NGEFTRKMGM LVDKS--NL- GFG-M-RSWR
+YP_005071632.1          KQQ--GAD-- --KVFLLPDG NGEFTRKMGM LVDKS--NL- GFG-M-RSWR
+WP_009554039.1          KQQ--GAK-- --NVFLLPDG NGEFTRKMGM LVDKS--NL- GFG-M-RSWR
+YP_007159554.1          KQQ--NAE-- --NVFLLPDG NGEFTRKMGM LVDKA--NL- GFG-M-RSWR
+YP_007069293.1          KQQ--GAQ-- --NVFLLPDG NGEFTRKMGM LVDKS--NL- GFG-L-RSWR
+YP_001734053.1          KEI--GAD-- --KVFLLPDG NGEFTRKMGM LVEKS--NL- GFG-M-RSWR
+YP_343352.1             RHM--EAK-- --KVKMLPDG NGEFTRKMGM LVDKS--NL- GFG-M-RAWR
+YP_004511903.1          KHL--GVQ-- --NVKMLPDG NGDFTRGMGM LVKKE--NL- GFG-Y-RSWR
+NP_885227.1             KDQ--ESA-- --NVTLLPDG NGEFTDGMGM LVDKK--DL- GFG-K-RSWR
+YP_004681256.1          KDQ--ESE-- --NITMIPDG NGEFTEGMGM LVDKA--DL- GFG-K-RSWR
+YP_005895931.1          AEE--ESD-- --NIYMIPDG NGEFTEGMGM LVGKE--DL- GFG-K-RSWR
+YP_003739564.1          ADQ--HAS-- --NITFIPDG NGDFTRGMEM LVEKA--DL- GFG-P-RSWR
+NP_667659.1             SDQ--HAE-- --NITFVPDG NGEFTKGMNM LVEKA--DL- GFG-P-RSWR
+WP_006233858.1          ADQ--EAE-- --NITFIPDG NGEFSKGMNM LVDKE--DL- GFG-P-RSWR
+WP_001903937.1          DDQ--NAD-- --NITFIPDG NGEFTDGMGM LVDKN--DL- GFG-K-RSWR
+YP_944754.1             ADQ--EAE-- --NITVVPDG NGTFAEGMGM LVDKS--DL- GFG-K-RSWR
+WP_010555882.1          EHQ--EAQ-- --NITLLPDG NGEFTDGMGM LVDKN--DL- GFG-K-RSWR
+WP_005707035.1          ADQ--ECQ-- --NVTVLPDG NGDFTRGMGM LVSKN--DL- GFG-D-RSWR
+YP_390409.1             KDQ--ECT-- --NVTLIPDG NGEFTDGMGM LVDKS--DL- GFG-K-RSWR
+YP_694352.1             GDQ--AAG-- --NIHFIPDG NGEFTDKMGM LVNKQ--DL- GFG-P-RSWR
+WP_007022141.1          EDQ--KAE-- --NVTFLPDG NGEFSEAMGM LVDKD--EL- GFG-K-RSWR
+YP_431497.1             ADQ--KAE-- --NIYFLADG NGEFSAGMGM LVEKS--EL- GFG-K-RSWR
+YP_004872801.1          ADQ--EAE-- --NITVIPDG NGEFTHGMEM LVDKG--DI- GFG-K-RSWR
+XP_004338942.1          ESL--KAN-- --NITLVADW DSSFTKLVDK ELDLS--AA- GLG-K-RCRR
+NP_587706.1             KSFDGGEQ-S --GVHFVADW NGEFTKAFDA GFDAS--GLL G-P-L-RSKR
+EJY72164.1              EYL--GAK-D --RMNFIADG NGELTMALGL GMDLT--AV- QLGPV-RSTR
+EWH17271.1              KSL--GVK-D TTHIKFASDP GCAFTKSIGF ELAVG--D-- --G-VYWSGR
+
+XP_004031009.1          AAFLIDDGIV KHFAVD---- --E--G-KFH D-TSAEEVFK AI--------
+ABV22156                FAAVIEDGKI KAIEVEP--- --D--NVGAT -CTLANNIYK HL--------
+XP_002773537.1          FAAIVDNGKI TDLEVEP--- --D--GTGLS -CSRSSNIME KL--------
+AAY96293.1              YSLVIEDGVV TKVNVEP--- --D--GKGLT -CSLAPNILS QL--------
+XP_002613574.1          YSMLVEDGEV KQLNVEP--- --D--GTGLS -CSLAEEL-K -L--------
+XP_001629337.1          YAMLVEDGVV KQLHVEP--- --D--GTGLT -CSLSNSILS QL--------
+NP_036226.1             FSMVVQDGIV KALNVEP--- --D--GTGLT -CSLAPNIIS QL--------
+NP_036151.1             FSMVIDNGIV KALNVEP--- --D--GTGLT -CSLAPNILS QL--------
+XP_002108078.1          YAMIIEDTVV KQINVEP--- --D--GTGLS -CSLAQNILE QLS-------
+ADX36414.1              YSMVLENGVV KSLNVEP--- --D--GTGLS -CSLADRI-K -V--------
+NP_001027191.1          YSLVVENGKV TELNVEP--- --D--GTGLS -CSLANNIGK K---------
+AEA92625.1              YSMVIQDNVV KALNLQA--- --N--PGEMT -CSLADPTLE QVAK------
+AAM65848.1              FALLLDNLKV TVANLE---- --S--GGGFT -VSSADDILE AL--------
+NP_001237663.1          FALLVEDLKV KVANVE---- --S--GGEFT -ISSAEEIIK AL--------
+CAQ56034.1              FALLVEDLKV KVANVE---- --G--GGEFT -ISSAEDILK AL--------
+XP_002325005.1          FALLVDDLKV KAANIE---- --G--GGEFT -VSSADDILK DL--------
+EFN59443.1              YAMLVDDGTV KKLNME---- --E--GGAFT -VSGADDILA ALD-------
+EIE22107.1              FALLADDGVV KELNLE---- --E--GGAFT -VSSADTILA AL--------
+XP_002956367.1          YSMFVDDQVV KILHLE---- --E--GGAFT -VSSAEDMLA AL-P------
+XP_001698498.1          YAMLVEDGVV KVLNVEP--- -----ARGLT -CSSAASMLE GL--------
+XP_003060416.1          YAMIVEDGVI AHLSME---- --E--GGELN -VSNAEHILH LLEADA----
+XP_003082173.1          FAMIAYDGVV EYLAME---- --N--GTKYE -TSGADEVLE HLKKS-----
+XP_638067.1             YAMILDSGVV KHLAVE---- --E--GGKFD -VSSAEAILK QL--------
+EFA74828.1              YAAIIDNGVV KYIGVE---- --E-PG-KFE -LSAADNILK QL--------
+EME30410.1              FSAYVENGVV KNLNLE---- --N--GTSFT ETSAAERVLS QI--------
+CBN78919.1              LAMIVNDGTI EKLFLE---- --D--GTGYT DVSSGDTVLA AL--------
+CAQ52405.1              LAMIVNDGTI EKLFLE---- --D--GTGYT DLSSGAGVLA AL--------
+EKU23114.1              FSALVEDGSV KKLHLE---- --E--GGGYT GVSGAEQMLK DLE-------
+XP_005714665.1          GGYLVEDGVF TQVNLE---- --D--GTSFE GPSKPETLLA QM--------
+XP_001758208.1          YAAVVEDGKI KQLNVE---- --EVP-SDFK -VSDAETLLK GL--------
+XP_002292020.1          FSLIAEDGIV THYFSSA--- --D--AS--D N-TWAPNVLA AL--------
+PBANKA_021330           YVGIVENNIL IKIFQENEKQ H-NIQTDPYD -ISSADHVKE FLKHN-----
+PY01475_exon2           YVAIVENNIL IKIFQENEKQ H-NIQTDPYD -ISSVDHVKE FLKHN-----
+PCHAS_021170_exon2      YVAIVENNIL IKIFQENEKQ H-NIQTDPYD -ISSANHVKE FLKHN-----
+PCYB_022410_exon2       FVAIVENNIL IKMFQEKDKQ H-NMQADPYE -VSSVAAVKE FLRQN-----
+PVX_081760_exon2        FVAIVENNIL IKMFQEKDKQ H-NMQADPYE -VSSVAAVKE FLRQN-----
+PKH_021360_exon2        FVAIVENNIL IKMFQEKDKQ H-NIQTDPYE -VSSIAVVKE FLQQN-----
+PF3D7_0729200_exon2     FVAIVENNIL VKMFQEKDKQ H-NIQTDPYD -ISTVNNVKE FLKNN-----
+TGGT1_038055            YAMVVRNGTI EKLLVEPEKR D-DAEDDPFV -ASDVASVLK YLRDSAD---
+NCLIV_014020            YAMVVRDGII EKLMVEPEKR D-DAEDDPFV -ASDVGSVLK YLREAAD---
+WP_017182087.1          YAMVVDDGKV VAWFEEPGIN DMGEDDDPYG -ETRPEPVLD WLKAHP----
+WP_003510133.1          YAAVVNDGVV EQWFEEEGYQ D-NCESDPYG -VSAPQNILE NLKSRAAA--
+WP_003513894.1          YAAVINDGMV EQWFEEEGYC D-NSDTDPYG -VSSPQNILE NLKSRAAA--
+WP_018065210.1          YAAIINDGVV EQWFEEEGFS D-MCETDPYS -VSSPQNILE NLKREAKA--
+WP_009449921.1          YAAVVNNGLI EKWFEEEGFS D-NCDTDPYG -VSSPQNILE ALKAGEAV--
+YP_989434.1             YAAVINDGLI EHWFEEEGFA D-NCGTDPYE -VSSPQHVLK VLQNS-----
+YP_034080.1             YAAVINDGVI EHWFEEQGFS D-NCATDPYE -VSSPQNVLK TLKG------
+NP_444105.1             YAAVVNDSVV EQWFEEEGFS D-NCESDPYW -ASSPQNILE TLRTFDTA--
+WP_008883752.1          YAAIVNNGVI EAWFEEPGLM D-NCPDDPYG -ESSPETLLS YLKQAVAA--
+WP_007798629.1          YAAVVNDGVI EAWFEEPGLM D-NCPDDPYG -VSSPETLLA YLQNEAVA--
+YP_006572897.1          YAAIVDNGVV EAWFEEPGLC D-NHGEDPYG -VSSPETVLE HLKTAKAE--
+WP_007119512.1          YAAIVNDGQI EAWFEEPGIS D-NHGDDPYG -VSSPETVLE YLENQKKT--
+WP_008328960.1          YAAIVNDGVI EALFVEPGMC D-NHGEDPYG -ESSPENVLK WLKENATA--
+WP_010392270.1          YAAVVNNGQI EAWFEEPGRM D-DCPEDPYG -VSSPETVLD WLRANPAK--
+YP_001891800.1          YAMIVNNGEI EKMFVEPGKR D-NADNDPYG -ESSPENLLK YLESK-----
+WP_004287651.1          YAMIVNNHEI EKMFVEPGKR D-NAEDDPYG -ESSPENLLK YLEAK-----
+YP_006316950.1          YAMIVNNHEI EKMFVEPGKR D-NAEDDLYG -ESSPENLLK YLEAK-----
+YP_001517986.1          YSMVVNNGQI EKMFIEADYG D-NCPTDPFE -VSDADTMLA YLKGVHAT--
+YP_005071632.1          YSMVVNDGKI EKIFVEPDFG D-NCPTDPFE -VSDADTMLA YLKG------
+WP_009554039.1          YSMVVNDCEI EKIFIEPDFA D-NCPTDPFE -VSDADTMLT YLKTAKVP--
+YP_007159554.1          YSMVVNDGKI EKMFVEPGFD D-NCPTDPFE -VSDADTMLA YLKSA-----
+YP_007069293.1          YSMVVNDGNI EKIFIEPGFD D-NCPTDPFE -VSDADTMLA YLKEARTA--
+YP_001734053.1          YSMLVEDGEI KKMFVEPDFS D-NCPTDPFE -VSDADTMLA YIKGESAP--
+YP_343352.1             YSMLVDDGKI EELFVEPDFS D-NCPTDPFQ -VSDADTMLA ALKGEEPT--
+YP_004511903.1          YSMLVEDGKI VKLFSEAGQA D-NHPEDPFE -VSDADTMLA YLKQ------
+NP_885227.1             YAMLVKDGVV EKMFIEP--- --EKEGDPFE -VSDADTMLA YVAPQARKPD
+YP_004681256.1          YAMLVKDGVV QKMFIEP--- --EEPGDPFK -VSDADTMLA HIAPNARKPD
+YP_005895931.1          YSMLVNDGVV EKMFIEP--- --EEPGDPFK -VSDADTMLK FVAPNWKAQE
+YP_003739564.1          YSMLVRNGVV EKMFVEP--- --NKPGDPFE -VSDADTMLR YLAPEFKVQE
+NP_667659.1             YSMLVRNGVV EKMFVEP--- --NKPGDPFE -VSDADTMLK YLAPDFKVQE
+WP_006233858.1          YSMLVKNGVV EKMFVEQ--- --EEPGDPFK -VSDADTMLN YVAPNHKLQE
+WP_001903937.1          YSMLVKDGVV EKMFIEP--- --NEPGDPFK -VSDADTMLK YIAPQYKVQE
+YP_944754.1             YSMLVKDGVI EKMFIEP--- --NQPGDPFE -VSDADTMLN YINPKAKAPA
+WP_010555882.1          YSMLVKDGVI EKMFIEP--- --DLPGDPFE -VSDADTMLD YINPKQAKPE
+WP_005707035.1          YSMFVNNGVV EKMFIEP--- --QEPGDPFK -VSDADTMIK YLNPSWEAKP
+YP_390409.1             YSMLVKDGVV EKMFIEP--- --NVPGDPFE -VSDADTMLK YINPNAQPKK
+YP_694352.1             YSMLVKDGVI DRMFIEP--- --DKPGDPFE -VSDADTMLK YINGEAVLPK
+WP_007022141.1          YSMLVKDGVI DKMYIEP--- --DLPGDPFQ -VSDADTMLD YINPQAEQPK
+YP_431497.1             YSMLVRDGVI EKMFIEP--- --ELPGDPFK -VSDADTMLN YINKEAVLPN
+YP_004872801.1          YSMVVDDGVV EKMFIEP--- --NIPGDPFE -VSDADTMLA YLSPGAKAPE
+XP_004338942.1          YSLIVDNGKI VKENIE---- --N--A-P-- --N--E---- ----------
+NP_587706.1             YAAVVENGKV VKVFIEN--- --EV--TDVD -ISSADKVLS SL--------
+EJY72164.1              FTMIVKDNNI LELNDEG--- -----GAQFT EKSCAATIKD QLTP------
+EWH17271.1              WAMVVENGIV TYAAKET--- --N-PGTDVT -VSSVESVLA HL--------
+
+XP_004031009.1          ---------- ---------- ---------- ---------- ----------
+ABV22156                ---------- ---------- ---------- ---------- ----------
+XP_002773537.1          ---------- ---------- ---------- ---------- ----------
+AAY96293.1              ---------- ---------- ---------- ---------- ----------
+XP_002613574.1          ---------- ---------- ---------- ---------- ----------
+XP_001629337.1          ---------- ---------- ---------- ---------- ----------
+NP_036226.1             ---------- ---------- ---------- ---------- ----------
+NP_036151.1             ---------- ---------- ---------- ---------- ----------
+XP_002108078.1          ---------- ---------- ---------- ---------- ----------
+ADX36414.1              ---------- ---------- ---------- ---------- ----------
+NP_001027191.1          ---------- ---------- ---------- ---------- ----------
+AEA92625.1              ---------- ---------- ---------- ---------- ----------
+AAM65848.1              ---------- ---------- ---------- ---------- ----------
+NP_001237663.1          ---------- ---------- ---------- ---------- ----------
+CAQ56034.1              ---------- ---------- ---------- ---------- ----------
+XP_002325005.1          ---------- ---------- ---------- ---------- ----------
+EFN59443.1              ---------- ---------- ---------- ---------- ----------
+EIE22107.1              ---------- ---------- ---------- ---------- ----------
+XP_002956367.1          ---------- ---------- ---------- ---------- ----------
+XP_001698498.1          ---------- ---------- ---------- ---------- ----------
+XP_003060416.1          ---------- ---------- ---------- ---------- ----------
+XP_003082173.1          ---------- ---------- ---------- ---------- ----------
+XP_638067.1             ---------- ---------- ---------- ---------- ----------
+EFA74828.1              ---------- ---------- ---------- ---------- ----------
+EME30410.1              ---------- ---------- ---------- ---------- ----------
+CBN78919.1              ---------- ---------- ---------- ---------- ----------
+CAQ52405.1              ---------- ---------- ---------- ---------- ----------
+EKU23114.1              ---------- ---------- ---------- ---------- ----------
+XP_005714665.1          ---------- ---------- ---------- ---------- ----------
+XP_001758208.1          ---------- ---------- ---------- ---------- ----------
+XP_002292020.1          ---------- ---------- ---------- ---------- ----------
+PBANKA_021330           ---------- ---------- ---------- ---------- ----------
+PY01475_exon2           ---------- ---------- ---------- ---------- ----------
+PCHAS_021170_exon2      ---------- ---------- ---------- ---------- ----------
+PCYB_022410_exon2       ---------- ---------- ---------- ---------- ----------
+PVX_081760_exon2        ---------- ---------- ---------- ---------- ----------
+PKH_021360_exon2        ---------- ---------- ---------- ---------- ----------
+PF3D7_0729200_exon2     ---------- ---------- ---------- ---------- ----------
+TGGT1_038055            -V----K-G- -----A---- ---------- ---------- ----------
+NCLIV_014020            -V----K-G- -----A---- ---------- ---------- ----------
+WP_017182087.1          ---------- -----A---- ---------- ---------- ----------
+WP_003510133.1          ---------- ---------- ---------- ---------- ----------
+WP_003513894.1          ---------- ---------- ---------- ---------- ----------
+WP_018065210.1          ---------- -----A---- ---------- ---------- ----------
+WP_009449921.1          A--------- -----A---- ---------- ---------- ----------
+YP_989434.1             ---------- ---------- ---------- ---------- ----------
+YP_034080.1             ---------- ---------- ---------- ---------- ----------
+NP_444105.1             RL------G- ----RV---- ---------- ---------- ----------
+WP_008883752.1          E--------- ---------- ---------- ---------- ----------
+WP_007798629.1          ---------- -----A---- --------E- ---------- ----------
+YP_006572897.1          V--------- -----A---- ---------- ---------- ----------
+WP_007119512.1          E--------- -----A---- ---------- ---------- ----------
+WP_008328960.1          T--------- -----A---- ---------- ---------- ----------
+WP_010392270.1          V--------- -----A---- ---------- ---------- ----------
+YP_001891800.1          ---------- ---------- ---------- ---------- ----------
+WP_004287651.1          ---------- ---------- ---------- ---------- ----------
+YP_006316950.1          ---------- ---------- ---------- ---------- ----------
+YP_001517986.1          A--------- -----A---- ---------- ---------- ----------
+YP_005071632.1          ---------- ---------- ---------- ---------- ----------
+WP_009554039.1          -T-------- -----A---- ---------- ---------- ----------
+YP_007159554.1          ---------- ---------- ---------- ---------- ----------
+YP_007069293.1          -V-------- -----A---- ---------- ---------- ----------
+YP_001734053.1          GV-------- -----S---- --------E- ---------- ----------
+YP_343352.1             EV-------- -----S---- --------E- ---------- ----------
+YP_004511903.1          ---------- ---------- ---------- ---------- ----------
+NP_885227.1             RVVVFSKPGC PFCVDAKALL KGKGFDPIEI PLDN-KVRG- RVIGAVSGGD
+YP_004681256.1          QVVVFSKVGC SFCAKAKQLL DDNGFDYIDV PLDN-KVRG- KVLGAVSGEM
+YP_005895931.1          SVAIFTKPGC QFCAKAKQAL QDKGLSYEEI VLGK-DATV- TSVRAITGKM
+YP_003739564.1          SVSLFTKPGC SFCAKAKQML QDRGIQYEEI VLGQ-DATT- VSLRAVTGRA
+NP_667659.1             SVAVFTKPGC PFCAKAKQML QDHGLQYEEI VLGK-DATT- VSLRAVSGRS
+WP_006233858.1          SITVFSKPGC PFCAKAKQNL IDKGLQYEEV VLGK-DATT- VSLRAITGRS
+WP_001903937.1          SVTIFTKPGC PYCAKAKQAL IDAGLQYEEL ILGK-DATT- VSLRAVSGRT
+YP_944754.1             AVTLFTKPGC PFCATAKAAL KDNNIAFEEI VLGK-DATS- VSLRAVSGES
+WP_010555882.1          PVSVFTKPGC PFCKKAKELL TEKGFAYEEI VMGA-GASL- TSLKAISGRD
+WP_005707035.1          SVSIITKPGC PFCAKAKALL EVKGFPYEEI VLGK-DAST- TSVRAITGRT
+YP_390409.1             VATIFTKPGC PFCAKAKAAL EDAGIEYEEI TVSHADVTS- RTLRAVANAD
+YP_694352.1             RVTVFTKPGC PHCTRAKQAL TDYGYAFEEI ELGS-RGLSY SSLAAVTGAG
+WP_007022141.1          RVTIISKPGC PHCTRAKNVL TENGYKYEEI ELGT-NGVSF SSLQAVTGRG
+YP_431497.1             RVTVFSKPGC PHCARAHKLL NDRGISFENI VLGA-NGLSY STLQAVTGQG
+YP_004872801.1          EVSLFTKPGC PFCAKAKVML KDSGYDFEEI VLGT-QATL- ASLKAVSGRD
+XP_004338942.1          ---------- ---------- ---------- ---------- ----------
+NP_587706.1             ---------- ---------- ---------- ---------- ----------
+EJY72164.1              -V-------- ---------- ---------- ---------- ----------
+EWH17271.1              ---------- ---------- ---------- ---------- ----------
+
+XP_004031009.1          ---------- ---------- -------
+ABV22156                ---------- ---------- -------
+XP_002773537.1          ---------- ---------- -------
+AAY96293.1              ---------- ---------- -------
+XP_002613574.1          ---------- ---------- -------
+XP_001629337.1          ---------- ---------- -------
+NP_036226.1             ---------- ---------- -------
+NP_036151.1             ---------- ---------- -------
+XP_002108078.1          ---------- ---------- -------
+ADX36414.1              ---------- ---------- -------
+NP_001027191.1          ---------- ---------- -------
+AEA92625.1              -------L-- ---------- -------
+AAM65848.1              ---------- ---------- -------
+NP_001237663.1          ---------- ---------- -------
+CAQ56034.1              ---------- ---------- -------
+XP_002325005.1          ---------- ---------- -------
+EFN59443.1              ---------- ---------- -------
+EIE22107.1              ---------- ---------- -------
+XP_002956367.1          ---------- ---------- -------
+XP_001698498.1          ---------- ---------- -------
+XP_003060416.1          ----Q----- ---------- -------
+XP_003082173.1          ----R----- ---------- -------
+XP_638067.1             ---------- ---------- -------
+EFA74828.1              ---------- ---------- -------
+EME30410.1              ---------- ---G------ -------
+CBN78919.1              ---------- ---------- -------
+CAQ52405.1              ---------- ---------- -------
+EKU23114.1              ---------- ---------- -------
+XP_005714665.1          ---------- ---------- -------
+XP_001758208.1          ---------- ---------- -------
+XP_002292020.1          ---------- ---------- -------
+PBANKA_021330           ----K--I-- ---------- -------
+PY01475_exon2           ----K--I-- ---------- -------
+PCHAS_021170_exon2      ----K--I-- ---------- -------
+PCYB_022410_exon2       ----Q--L-- ---------- -------
+PVX_081760_exon2        ----Q--L-- ---------- -------
+PKH_021360_exon2        ----Q--L-- ---------- -------
+PF3D7_0729200_exon2     ----Q--L-- ---------- -------
+TGGT1_038055            ---------- ---------- -------
+NCLIV_014020            ---------- ---------- -------
+WP_017182087.1          ---------- ---G------ -------
+WP_003510133.1          ---------- ---------- -------
+WP_003513894.1          ---------- ---------- -------
+WP_018065210.1          ---------- ---------- -------
+WP_009449921.1          ---------- ---------- -------
+YP_989434.1             ---------- ---------- -------
+YP_034080.1             ---------- ---------- -------
+NP_444105.1             --PIK-F--- ---------- -------
+WP_008883752.1          ---------- ---------- -------
+WP_007798629.1          ---------- ---------- -------
+YP_006572897.1          -------A-- ---------- -------
+WP_007119512.1          -------A-- ---------- -------
+WP_008328960.1          ---------- ---------- -------
+WP_010392270.1          -------A-- ---------- -------
+YP_001891800.1          ---------- ---------- -------
+WP_004287651.1          ---------- ---------- -------
+YP_006316950.1          ---------- ---------- -------
+YP_001517986.1          --PTAAAV-- ---G------ -------
+YP_005071632.1          ---------- ---------- -------
+WP_009554039.1          -------V-- ---A------ -------
+YP_007159554.1          ---------- ---------- -------
+YP_007069293.1          -------V-- ---------- -------
+YP_001734053.1          --PRKEFV-- ---G------ -------
+YP_343352.1             --PRRAFV-- ---G------ -------
+YP_004511903.1          ---------- ---------- -------
+NP_885227.1             TAP-QVFING KLIGGFDALK AYLA---
+YP_004681256.1          TAP-QVFING KLIGGAEALQ QYLG-K-
+YP_005895931.1          TAP-QVFIGG KYIGGSEDLE AYLA-KN
+YP_003739564.1          TVP-QVFIGG RHIGGSDDLE KFFV-A-
+NP_667659.1             TVP-QIFIGG RHIGGSDDLE KYLP-A-
+WP_006233858.1          TVP-QVFIGG KHIGGSEELE TYLA---
+WP_001903937.1          TVP-QVFIGG KHIGGSDDLE VYLN-Q-
+YP_944754.1             TFP-QLFVDG KHIGDSEAVI AYV--KG
+WP_010555882.1          TVP-QVFIGG KHIGGSDDLE KYFA---
+WP_005707035.1          SVP-QVFIGG KHIGGSDELQ AYFDVK-
+YP_390409.1             TVP-QVFIEG QHIGGSDDLE AYLA-K-
+YP_694352.1             TTP-QIYIEG ERIGGADELE AWLQ-QG
+WP_007022141.1          TTP-QIFVDG ELVGSADELE AWVA-K-
+YP_431497.1             TTP-QIYIDG QRIGGADDLE AHFGV--
+YP_004872801.1          TVP-QIFIGG KHIGGSEELE AYLK-SV
+XP_004338942.1          ---------- ---------- -------
+NP_587706.1             ---------- ---------- -------
+EJY72164.1              ----R--I-- ---------- -------
+EWH17271.1              ---------- ---------- -------
+
+;
+END;

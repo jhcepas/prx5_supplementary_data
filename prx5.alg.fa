@@ -1,0 +1,672 @@
+>XP_004031009.1  {Ichthyophthirius multifiliis}
+----M------------------------------------------------------N
+NLI-----------K--LQSKF-P--S-----V-VL-TSIQAI----E-GTC---G----
+--G---T--IQKYNTEELF-K-NKRVVLFSVPGAFTPTCSAQHVPGFLKLANDF-KTQK-
+NVQLIVCVSVNDVYVMDAWRQNQ--GIKNN--EILMLSDPNGQLAQQTGLTLDLI--DK-
+GLG-L-RMKRAAFLIDDGIVKHFAVD------E--G-KFHD-TSAEEVFKAI--------
+------------------------------------------------------------
+-----------------
+>ABV22156  {Perkinsus chesapeaki}
+--------------------------------------------------M------T--
+--I-----------A--VGSPL-P--T-----T-TL------F----E-------T----
+--S---P--DDKKTLADVF-G-KKKGILFGVPGAFTPTCDQTHLPGYLKDYEKL-K-EK-
+GVEVIACMAVNDSFVMQAWGKAS--GAD-G--KIHMLADIKADTAKALGVDFDVT--PVL
+G-N-V-RCKRFAAVIEDGKIKAIEVEP-----D--NVGAT-CTLANNIYKHL--------
+------------------------------------------------------------
+-----------------
+>XP_002773537.1  {Perkinsus marinus}
+----M------------------------------------AAR----C-F------S--
+--V-----------A--VGDAL-P--N-----V-TV------R----E-------A----
+--D---P--GDTKSLRDIF-G-NDKGILFGVPGAFTPTCDQSHLPGFIRDYDKL-Q-QK-
+GVKTVACMAVNDPFVMQAWGKIK--GAD-G--KVRMLSDVDGEAAKALGTNFDAT--DVL
+G-P-I-RTKRFAAIVDNGKITDLEVEP-----D--GTGLS-CSRSSNIMEKL--------
+------------------------------------------------------------
+-----------------
+>AAY96293.1  {Arenicola marina}
+----M--LSLRCL-QFQAVAR----S---Q----CRALSLSTAR----R-M------P--
+--I-----------K--EGDKL-P--A-----V-TV------F----G-------A----
+--T---P--NDKVNMAELF-A-GKKGVLFAVPGAFTPGCSKTHLPGYVEQAAAI-H-GK-
+GVDIIACMAVNDSFVMDAWGKAH--GAD-D--KVQMLADPGGAFTKAVDMELDLS--AVL
+G-N-V-RSKRYSLVIEDGVVTKVNVEP-----D--GKGLT-CSLAPNILSQL--------
+------------------------------------------------------------
+-----------------
+>XP_002613574.1  {Branchiostoma floridae}
+--------------------------------------------------M------P--
+--I-----------K--VGDKL-P--G-----V-DL------Y----E-------N----
+--T---P--GNKVNVSELF-A-GKKGVIFAVPGAFTPGCSKTHLPGFVSRAGDL-Q-AK-
+GVEVIACVSVNDPFVMEAWGRDQ--KAE-G--KVRMLADTGAEFTKAIGLDLDAT--AIL
+G-N-I-RSKRYSMLVEDGEVKQLNVEP-----D--GTGLS-CSLAEEL-K-L--------
+------------------------------------------------------------
+-----------------
+>XP_001629337.1  {Nematostella vectensis}
+--------------------------------------------------M------P--
+--I-----------K--VGEAL-P--S-----I-KV------M----E-------G----
+--T---P--KDTVDVASLF-K-GKKGILFAVPGAFTPGCSKTHLPGYVADFDKI-K-SK-
+GVDVVACIAVNDPFVMSAWGEAN--GCQ-G--KIQMLADVHGEFTKAVDLELDAT--PFL
+G-N-I-RSKRYAMLVEDGVVKQLHVEP-----D--GTGLT-CSLSNSILSQL--------
+------------------------------------------------------------
+-----------------
+>NP_036226.1  {Homo sapiens}
+----M---------------------------------------------A------P--
+--I-----------K--VGDAI-P--A-----V-EV------F----E-------G----
+--E---P--GNKVNLAELF-K-GKKGVLFGVPGAFTPGCSKTHLPGFVEQAEAL-K-AK-
+GVQVVACLSVNDAFVTGEWGRAH--KAE-G--KVRLLADPTGAFGKETDLLLDDSLVSIF
+G-N-R-RLKRFSMVVQDGIVKALNVEP-----D--GTGLT-CSLAPNIISQL--------
+------------------------------------------------------------
+-----------------
+>NP_036151.1  {Mus musculus}
+----M---------------------------------------------A------P--
+--I-----------K--VGDAI-P--S-----V-EV------F----E-------G----
+--E---P--GKKVNLAELF-K-GKKGVLFGVPGAFTPGCSKTHLPGFVEQAGAL-K-AK-
+GAQVVACLSVNDVFVIEEWGRAH--QAE-G--KVRLLADPTGAFGKATDLLLDDSLVSLF
+G-N-R-RLKRFSMVIDNGIVKALNVEP-----D--GTGLT-CSLAPNILSQL--------
+------------------------------------------------------------
+-----------------
+>XP_002108078.1  {Trichoplax adhaerens}
+----MTSVSL--VTTF---AR--------------R-FS-STSR----L-L------Q--
+--I-----------Q--VGDKL-P--S-----I-AL------H----Q-------N----
+--S---P--GNKVDIRQLF-A-NKKGILFAVPGAFTPGCSKTHLPGYLQHYDNF-K-SK-
+GIDVIACVSVNDAFVVDAWSKSN--NVD-D--RLEMLADTSAQFTKSVGLDFDAT--PVL
+G-N-I-RSKRYAMIIEDTVVKQINVEP-----D--GTGLS-CSLAQNILEQLS-------
+------------------------------------------------------------
+-----------------
+>ADX36414.1  {Brachymyrmex patagonicus}
+----M---------------------------------------------V------Q--
+--I-----------K--EGDQI-P--S-----V-EL------F----E-------D----
+--S---P--ANKINIADIS-K-NKKIVLFAVPGAFTPGCSKTHLPSYLEKEKDL-K-SG-
+GVDEIVCVSVNDPFVMSAWGNQF--NTK-G--KIRMLADPNAAFTKAVDLSLDLP--P-L
+G-G-L-RSKRYSMVLENGVVKSLNVEP-----D--GTGLS-CSLADRI-K-V--------
+------------------------------------------------------------
+-----------------
+>NP_001027191.1  {Drosophila melanogaster}
+----MRVLS--C--KF--LGR-VVNSALPQQIISLR--SLSKTS----A-A------M--
+--V-----------K--VGDSL-P--S-----V-DL------F----E-------D----
+--S---P--ANKINTGDLV-N-GKKVIIFGVPGAFTPGCSKTHLPGYVSSADEL-K-SKQ
+GVDEIVCVSVNDPFVMSAWGKEH--GAA-G--KVRLLADPAGGFTKALDVTIDLP--P-L
+G-G-V-RSKRYSLVVENGKVTELNVEP-----D--GTGLS-CSLANNIGKK---------
+------------------------------------------------------------
+-----------------
+>AEA92625.1  {Dunaliella viridis}
+--------------------------------------------------M------P--
+--I-----------K--VGDAL-P--D-----V-KV------F----E-------G----
+--T---P--GGEVKLRDLF-A-GKKGVIVAVPGAFTPGCSKTHLPGYVQNFDKF-K-AA-
+GADIVACLATNDPFVMSAWGEAQ--GAT-G--KVRMLSDMNAEATKAFDLGMDA-----M
+GL--T-RAQRYSMVIQDNVVKALNLQA-----N--PGEMT-CSLADPTLEQVAK------
+---------------------------------------------------------L--
+-----------------
+>AAM65848.1  {Arabidopsis thaliana}
+----M---------------------------------------------A------P--
+--I-----------A--VGDVV-P--D-----G-TI-SF---F--D-E-------N----
+--D---Q--LQTVSVHSLA-A-GKKVILFGVPGAFTPTCSMKHVPGFIEKAEEL-K-SK-
+GVDDIICFSVNDPFLMKAWGKTY--PEN-K--HVKFVADGSGEYTHLLGLELDLK--DK-
+GLG-I-RSRRFALLLDNLKVTVANLE------S--GGGFT-VSSADDILEAL--------
+------------------------------------------------------------
+-----------------
+>NP_001237663.1  {Glycine max}
+----M---------------------------------------------A------P--
+--I-----------A--VGNVI-P--D-----G-IL-AY---L--D-E-------E----
+--N---K--PQTVSIHSLA-T-GKKVIIFGVPGAFTPTCSLKHVPGFIERAEEL-K-GK-
+DVDEIICISVNDPFVMNSWAKTF--PEN-K--HVKFLADGAAKYTNALGLELDLT--DK-
+GLG-V-RSKRFALLVEDLKVKVANVE------S--GGEFT-ISSAEEIIKAL--------
+------------------------------------------------------------
+-----------------
+>CAQ56034.1  {Pisum sativum}
+----M---------------------------------------------A------P--
+--I-----------A--VGDAI-P--D-----G-TL-AY---L--D-E-------E----
+--N---K--PQSVSIHSLS-A-GKKVIIFGVPGAFTPTCSLKHVPGFIERAEEL-K-GK-
+GVDEIICISVNDPFVLNSWAKTF--PEN-K--HVKFLADGSAKYTHALGLELDLT--DK-
+GLG-I-RSRRFALLVEDLKVKVANVE------G--GGEFT-ISSAEDILKAL--------
+------------------------------------------------------------
+-----------------
+>XP_002325005.1  {Populus trichocarpa}
+----M---------------------------------------------A------P--
+--I-----------A--VGDVL-P--D-----G-KL-AY---F--D-E-------Q----
+--D---Q--LQEVSVHSLV-A-GKKVILFGVPGAFTPTCSLKHVPGFIEKAGEL-K-SK-
+GVTEILCISVNDPFVMKAWAKSY--PEN-K--HVKFLADGSATYTHALGLELDLQ--EK-
+GLG-T-RSRRFALLVDDLKVKAANIE------G--GGEFT-VSSADDILKDL--------
+------------------------------------------------------------
+-----------------
+>EFN59443.1  {Chlorella variabilis}
+----M---------------R-I---------------------------Q------A--
+--I-----------A--EGDKL-PA-D-----V-KL-NY---F--D-A-------E----
+--G---N--MQEVAVGSLT-K-GKKVVLFAVPGAFTPTCSLKHLPGFIEKADEL-R-AK-
+GVDTIACVSVNDAFVMDAWGKSV--GAD-G--KVMMLADGSAVFAQAIGAELDLA--DK-
+GLG-V-RSRRYAMLVDDGTVKKLNME------E--GGAFT-VSGADDILAALD-------
+------------------------------------------------------------
+-----------------
+>EIE22107.1  {Coccomyxa subellipsoidea}
+----------------------T---------------------------Q------A--
+--L-----------A--VGDKL-PG-D-----I-KL-NY---F--D-K-------E----
+--N---N--MQEISVEELT-K-GKKTVILAVPGAFTPTCSLKHLPGFVEKAEEI-K-AK-
+GVDTIACVAVNDAFVMDAWSKSV--DVG-D--KILMLADGSAIFTKAIGAELDLS--DK-
+GLG-I-RSRRFALLADDGVVKELNLE------E--GGAFT-VSSADTILAAL--------
+------------------------------------------------------------
+-----------------
+>XP_002956367.1  {Volvox carteri}
+----M-----------------IAP-------------------------Q------A--
+--I-----------A--VGQKL-P--D-----A-KF-KY---F--D-G-------E----
+--G---Q--MRDVTTEELC-K-GKKVVLFAVPGAFTPTCSLKHVPGFVDKADEL-K-NK-
+GVDTIACVSVNDAFVMAAWGKDL--KAG-D--KVLMLADGNGQFTKALGVELDLI--DK-
+GLG-T-RSRRYSMFVDDQVVKILHLE------E--GGAFT-VSSAEDMLAAL-P------
+------------------------------------------------------------
+-----------------
+>XP_001698498.1  {Chlamydomonas reinhardtii}
+----M----------------------------------------------------P--
+--I-----------A--VGDKV-P--A-----A-TF-HV---P--D-A-------N----
+--G---M--PQPLTTEQLF-G-GKKVLLFAVPGAYTPTCSKQHLPGFVESADAL-K-AK-
+GVDTIACLSVNDAFVMGAWGQSI--GVG-D--KVTMLADGAAAFTKAVGLDQDLS--EA-
+GLG-V-RSQRYAMLVEDGVVKVLNVEP--------ARGLT-CSSAASMLEGL--------
+------------------------------------------------------------
+-----------------
+>XP_003060416.1  {Micromonas pusilla}
+--------------------------------------------------A------A--
+--V-----------K--EGDRV-P--E-----A-VL-QH---F--D-S-------E----
+--G---E--LRKVSTAELC-GDGKTVVLFAVPGAFTPTCSLKHLPGFIKLADEM-K-DA-
+GADDVVCVSVNDAFVMRAWEKSG--AFGSG--RVLLLADGSCLFTRAMDAELDLN--EK-
+GLG-V-RSRRYAMIVEDGVIAHLSME------E--GGELN-VSNAEHILHLLEADA----
+------------------------------------------------------Q-----
+-----------------
+>XP_003082173.1  {Ostreococcus tauri}
+----M---------------R-V--------------------R------ARGIDRPP--
+--I-----------E--VGETL-PG-E-----A-SV-AY---V--D-D-------D----
+--G---A--LVRARAGDLW-A-KRRVVVFAVPGAFTPTCSNKHLPGYVRLAEEF-R-AR-
+GVDDVMCVSVNDAFVMNAWGETA--GARKA--RVRMVADGSATLARAMGTDLDLS--EQ-
+GMG-T-RSRRFAMIAYDGVVEYLAME------N--GTKYE-TSGADEVLEHLKKS-----
+------------------------------------------------------R-----
+-----------------
+>XP_638067.1  {Dictyostelium discoideum}
+----M----------------------------------------------------SVK
+SVI-----------K--VGEKV-PM-D-----V-TLGKALPPV--D--------------
+--GVC-AM-APKVLSGELF-K-DRKVVLFAVPGAFTPTCSAKHLPGFIEKSEEI-K-KK-
+GISEIFCIATNDPFVMSAWGKDV--NAG-T--AVTLLSDGNSEFTKKIGLEMDGK--AFL
+-LGED-RSQRYAMILDSGVVKHLAVE------E--GGKFD-VSSAEAILKQL--------
+------------------------------------------------------------
+-----------------
+>EFA74828.1  {Polysphondylium pallidum}
+----M----------------------------------------------------T--
+--I-----------Q--VG--V-PF-D-----V-TLWKAAV-IKED-E--SLFTYNYKQQ
+FTGTC-PI-PQKTTSKDLF-E-NKKVVLFALPG----TCSGNHLPGYVEHAGEI-K-SK-
+GIDSIICLSTNDSFVMSYWAKDR--NVG-D--AVQLIADGNSEFTQKVGLIMDGS--AF-
+GMGAL-RSKRYAAIIDNGVVKYIGVE------E-PG-KFE-LSAADNILKQL--------
+------------------------------------------------------------
+-----------------
+>EME30410.1  {Galdieria sulphuraria}
+----M---------------------------------------------M------I--
+--I-----------S--NGSRF-PE-D-----V-TF-TT---L----Q-------E----
+--G---Q--VKEMKASEIF-N-GKKVVIFGVPGAFTPSCSDKHLPGFAENFDKF-K-EK-
+GIDTVICLAANDPYVMNAWAKQK--GVD-G--KILMLSDGSGAVLEELGLSVNTG--NF-
+G-G-R-RARRFSAYVENGVVKNLNLE------N--GTSFTETSAAERVLSQI--------
+------------------------------------------------------------
+---G-------------
+>CBN78919.1  {Ectocarpus siliculosus}
+----M----------------------------------------------------A--
+--I-----------K--EGDKF-PM-D-----S-TF-QI---K----G-------D----
+--A---G--PADVPASEIF-A-GKKVVICGVPGAFTPTCDDNHLPSFIANADKF-K-EK-
+GVDTVACMSVNDAFVMSRWIKSL--DAE-D--KVTMLADGGAVFAEESGLCVKTG--KF-
+G-G-T-RLQRLAMIVNDGTIEKLFLE------D--GTGYTDVSSGDTVLAAL--------
+------------------------------------------------------------
+-----------------
+>CAQ52405.1  {Laminaria digitata}
+----M----------------------------------------------------A--
+--I-----------K--EGDKF-PA-G-----T-SF-QI---L----G-------D----
+--G---G--PADVPAADVF-A-GKKVVICGVPGAFTPTCSDDHLPSFIALADEF-K-AK-
+GVDTVACLSVNDAFVMSRWIKSL--DAA-D--KVTMLADGGGVFAEESGLCVKTG--KF-
+G-G-T-RLQRLAMIVNDGTIEKLFLE------D--GTGYTDLSSGAGVLAAL--------
+------------------------------------------------------------
+-----------------
+>EKU23114.1  {Nannochloropsis gaditana}
+----M---------------------------------------------A------K--
+--I-----------A--EGQTL-PL-E----KI-TF-KV---L----K-------D----
+--G---K--ATDLTGTDLF-K-GKKVVLFGVPGAFTPTCTNTHAPEYLAMYESF-K-AK-
+GVDAIYCIASNDCFVTSAWAKSL--DAG-D--KVSILADGDCGFAKLVGLTVETG--GF-
+G-G-L-RLSRFSALVEDGSVKKLHLE------E--GGGYTGVSGAEQMLKDLE-------
+------------------------------------------------------------
+-----------------
+>XP_005714665.1  {Chondrus crispus}
+----MAFIT----HALPGLTRSTVP---------------RTSR--F-IHAT-----SPT
+MLL-----------S--KGDKM-PM-D-----V-DL-MV---L----K-------D----
+--G---A--PTTVSTASIF-Q-SKKVAVVTFPGAFTSTCQNGHVPLWIKAVDDF-K-AK-
+GCDDVVALAVNDPFVMDAFANVI--GNE-G--KVTFLADGGAKLTKAIGIEVDTD--GF-
+G-G-V-RSYRGGYLVEDGVFTQVNLE------D--GTSFEGPSKPETLLAQM--------
+------------------------------------------------------------
+-----------------
+>XP_001758208.1  {Physcomitrella patens}
+----M------------G------------------------S-------A------A-K
+--------------K--I-D-LES--D-----V-ALQEART-W--D-E------------
+--GVSTK--FSTTPVSEIF-K-GKKVAIFGLPGAFTGVCSQKHVPSFLNNSDKL-K-SK-
+GIDSIVCVSVNDPYTMNAWAEKL--GAK-D--KIKFYGDFDGKFHKSLGLDLDLS--GAL
+-LG-P-RSQRYAAVVEDGKIKQLNVE------EVP-SDFK-VSDAETLLKGL--------
+------------------------------------------------------------
+-----------------
+>XP_002292020.1  {Thalassiosira pseudonana}
+----M---------------------------------------------A------SVD
+E-V-----------K--VGDKI-P--S-----V-VL-KEGQA---DYE-------K----
+------P---VDVNIGELI-A-GKKVALFAVPGAFTPGCSKSHLPSFITAQKEL-R-EK-
+GVDLTICIATNDAYVMEAWGRTS--GGA-DA-GIRFLSDANAELSRALGLSMEND--VM-
+----V-RTKRFSLIAEDGIVTHYFSSA-----D--AS--DN-TWAPNVLAAL--------
+------------------------------------------------------------
+-----------------
+>PBANKA_021330  {Plasmodium berghei}
+----V------------------------------------------------------D
+--V---------------GN-I----G---I-VNNFGE-------E-EKKS----P----
+--IEESP--FRSIDTHELF-K-SKRILLISLPGAFTPLCTSKMIPEYEKEYDSFIR-EN-
+KFDDIYCITNNDIYVLKSWFKNM--DIK----KIKYISDGNSSFTESMNMLVDKS--NYF
+-MG-M-RPWRYVGIVENNILIKIFQENEKQH-NIQTDPYD-ISSADHVKEFLKHN-----
+------------------------------------------------------K--I--
+-----------------
+>PY01475/exon2  {Plasmodium yoelii}
+----V------------------------------------------------------D
+--V---------------GN-I----G---I-VNNFGE-------E-EKKS----S----
+--GEESP--FRSIDTHELF-K-SKRILLISLPGAFTPLCTSKMIPEYEKEYDNFIR-EN-
+KFDDIYCITNNDIYVLKSWFKSM--DIK----KIKYISDGNSSFTESMNMLVDKS--NYF
+-MG-M-RPWRYVAIVENNILIKIFQENEKQH-NIQTDPYD-ISSVDHVKEFLKHN-----
+------------------------------------------------------K--I--
+-----------------
+>PCHAS_021170/exon2  {Plasmodium chabaudi}
+----V------------------------------------------------------D
+--V---------------GN-I----G---N-VNSYGE-------E-ERKS----P----
+--DDKSP--FRSIDTHELF-K-SKRILLISLPGAFTPLCTSKMIPEYEKEYDNFII-EN-
+KFDDIYCITNNDIYVLKSWFKDM--GIK----KIKYISDGNSSFTESMNMLVDKS--NYF
+-MG-M-RPWRYVAIVENNILIKIFQENEKQH-NIQTDPYD-ISSANHVKEFLKHN-----
+------------------------------------------------------K--I--
+-----------------
+>PCYB_022410/exon2  {Plasmodium cynomolgi}
+----I------------------------------------------------------D
+--V-----------K----N-M----S---G---T----------D-Q-------P----
+--GEEND--FKAIDTHELF-K-NKKILLISLPGAFTPTCTSKMIPQYESEYDFFIK-EN-
+KFDDIYCITNNDIFVLKSWFKDM--KIK----KVKYVSDGNSSFTESMNMLVDKS--NFF
+-MG-M-RPWRFVAIVENNILIKMFQEKDKQH-NMQADPYE-VSSVAAVKEFLRQN-----
+------------------------------------------------------Q--L--
+-----------------
+>PVX_081760/exon2  {Plasmodium vivax}
+----I------------------------------------------------------D
+--V-----------H----N-M----S---G---T----------D-Q-------P----
+--GEEND--FKAIDTHELF-K-NKKILLISLPGAFTPTCTSKMIPQYEDEYDFFIK-EN-
+KFDDIYCITNNDIFVLKSWFKNM--NIK----KVKYVSDGNSSFTESMNMLVDKS--NFF
+-MG-M-RPWRFVAIVENNILIKMFQEKDKQH-NMQADPYE-VSSVAAVKEFLRQN-----
+------------------------------------------------------Q--L--
+-----------------
+>PKH_021360/exon2  {Plasmodium knowlesi}
+----I------------------------------------------------------D
+--V-----------K----N-M----N---G---T----------D-H-------P----
+--GEEND--FKAIDTHELF-K-NKKILLISLPGAFTPTCTSKMIPQYEAEYDFFIK-EN-
+KFDDIYCITNNDIFVLKSWFKDM--KIK----KVKYVSDGNSSFTESMNMLVDKS--NFF
+-MG-M-RPWRFVAIVENNILIKMFQEKDKQH-NIQTDPYE-VSSIAVVKEFLQQN-----
+------------------------------------------------------Q--L--
+-----------------
+>PF3D7_0729200/exon2  {Plasmodium falciparum}
+----I------------------------------------------------------D
+--V-----------R----N-M----N---N-I-S----------D-T-------D----
+--GSPND--FTSIDTHELF-N-NKKILLISLPGAFTPTCSTKMIPGYEEEYDYFIK-EN-
+NFDDIYCITNNDIYVLKSWFKSM--DIK----KIKYISDGNSSFTESMNMLVDKS--NFF
+-MG-M-RPWRFVAIVENNILVKMFQEKDKQH-NIQTDPYD-ISTVNNVKEFLKNN-----
+------------------------------------------------------Q--L--
+-----------------
+>TGGT1_038055  {Toxoplasma gondii}
+----L-------------------------------------------------------
+--------------S--EGDPA-P--E-----C-VW-KVRA------A--AP---E----
+--G---GMTWAELESTTMF-K-NKRVVIFSLPGAFTPTCSSRHLPDFDKEYDAI-R-AL-
+GIDEVYCLSVNDTFVMNAWASSL--NVK----HVKMIPDGNGCFTSKMGMLVDKT--NL-
+GFG-P-RSWRYAMVVRNGTIEKLLVEPEKRD-DAEDDPFV-ASDVASVLKYLRDSAD---
+-V----K-G------A--------------------------------------------
+-----------------
+>NCLIV_014020  {Neospora caninum}
+----L-------------------------------------------------------
+--------------S--EGDPV-P--G-----C-VW-RVRT------A--AP---N----
+--G---EKTWADLESDAMF-K-NKRVVVFSLPGAFTPTCSSRHLPDFEKEYESI-L-SL-
+GVDEVYCLSVNDSFVMNAWASSL--NVK----NVKMIPDGNGCFTSRMGMLVDKT--NL-
+GFG-P-RSWRYAMVVRDGIIEKLMVEPEKRD-DAEDDPFV-ASDVGSVLKYLREAAD---
+-V----K-G------A--------------------------------------------
+-----------------
+>WP_017182087.1  {Sphingobium xenophagum}
+----M-------------------------------------------------------
+-----------------LGRSV-P--N-----I-TL-KTRVR---D-E--SV---E----
+--G-PNQFRWEDVHTGDLF-A-GKRAVVFSLPGAFTPTCSTEQCPAFERYYDDF-K-AL-
+GVDDVYCVSVNDAFVMFQWGKHL--GVS----NVKLLPDGSGDFTRRMGMLIKKN--HL-
+GFG-D-RSWRYAMVVDDGKVVAWFEEPGINDMGEDDDPYG-ETRPEPVLDWLKAHP----
+---------------A--------------------------------------------
+---G-------------
+>WP_003510133.1  {Agrobacterium tumefaciens}
+----M-------------------------------------------------------
+-----------------LGKKV-P--A-----V-TF-RTRVR---D-E--AV---G----
+--G-PNPFRWQDMTSDDYF-K-GKKVVLFSLPGAFTPTCSTYQLPDFEKLAPEF-R-AL-
+GVDEIYCLSVNDAFVMNAWAKGQ--NLE----NVKVIPDGSGEFTRKMGMLVAKD--NL-
+GFG-M-RSWRYAAVVNDGVVEQWFEEEGYQD-NCESDPYG-VSAPQNILENLKSRAAA--
+------------------------------------------------------------
+-----------------
+>WP_003513894.1  {Agrobacterium tumefaciens}
+----M-------------------------------------------------------
+-----------------LGKKV-P--A-----V-TF-RTRVR---D-E--AV---G----
+--G-PNPFRWQDMTSDDYF-K-GKKVVLFSLPGAFTPTCSTYQLPDFEKLAGEF-R-AL-
+GVDEIYCLSVNDAFVMNAWAKGQ--NLE----NVKVIPDGSGEFTRKMGMLVAKD--NL-
+GFG-M-RSWRYAAVINDGMVEQWFEEEGYCD-NSDTDPYG-VSSPQNILENLKSRAAA--
+------------------------------------------------------------
+-----------------
+>WP_018065210.1  {Martelella mediterranea}
+----M-------------------------------------------------------
+-----------------IGRKV-P--N-----V-TF-RTRVR---D-E--SI---E----
+--G-PNPFRWQDMTSDDYF-K-GKRVVLFSLPGAFTPTCSTYQLPDFEKLFPEF-Q-AQ-
+GIDDIYCMSVNDAFVMNAWAKGQ--NLE----HVKVIPDGSGEFTRKMGMLVNKD--NL-
+GFG-M-RSWRYAAIINDGVVEQWFEEEGFSD-MCETDPYS-VSSPQNILENLKREAKA--
+---------------A--------------------------------------------
+-----------------
+>WP_009449921.1  {Nitratireductor indicus}
+----M-------------------------------------------------------
+-----------------TVRKV-P--D-----V-TF-RTRVR---D-E--AI---E----
+--G-PNPFRWEDKTTADYF-A-GKRVVLFSLPGAFTPTCSTFQLPDFEKLYGEF-Q-AQ-
+GIDEIYCISVNDAFVMNAWGKSQ--GLK----NVKLIPDGSGEFTRKMGMLVAKD--NL-
+GFG-M-RSWRYAAVVNNGLIEKWFEEEGFSD-NCDTDPYG-VSSPQNILEALKAGEAV--
+A--------------A--------------------------------------------
+-----------------
+>YP_989434.1  {Bartonella bacilliformis}
+----M-------------------------------------------------------
+-----------------VRRKI-P--N-----V-TF-HTRVR---D-E--SI---G----
+--G-ENPYRWQDVNSDAYF-K-GKRVILFSLPGAFTPTCSNFQLPDFEKLYDDF-K-KI-
+GIDDIYCLSVNDTFVMNAWGKKQ--GIK----NVKLIPDGSGEFTRKMGMLVEKT--NI-
+GFG-M-RSWRYAAVINDGLIEHWFEEEGFAD-NCGTDPYE-VSSPQHVLKVLQNS-----
+------------------------------------------------------------
+-----------------
+>YP_034080.1  {Bartonella henselae}
+----M-------------------------------------------------------
+-----------------IRKTV-P--N-----T-TF-HTRVR---D-E--SI---G----
+--G-DNPYRWQEVNSDAYF-K-GKRVILFSLPGAFTPTCSTFQLPDFEKLYDEF-K-KV-
+GIDEIYCLSVNDAFVMNAWGKAQ--GIK----NVKLIPDGSGEFTRKMGMLVAKD--NV-
+GFG-M-RSWRYAAVINDGVIEHWFEEQGFSD-NCATDPYE-VSSPQNVLKTLKG------
+------------------------------------------------------------
+-----------------
+>NP_444105.1  {Sinorhizobium fredii}
+----M-------------------------------------------------------
+--------------P--VKKRV-P--F-----V-AF-RTRVR---D-E--TI---G----
+--G-PNPYRWEVRTTEDYF-S-GKRVVLFSLPGAFTPTCSTQQLPDFERLYDEF-G-KV-
+GIEAVYCLSVNDAFVMNAWGKAL--GLE----KVRLIPDGSGEFTRKMGMLVAKD--NL-
+GFG-M-RSWRYAAVVNDSVVEQWFEEEGFSD-NCESDPYW-ASSPQNILETLRTFDTA--
+RL------G-----RV------------------------------------PIK-F---
+-----------------
+>WP_008883752.1  {Citreicella sp. SE45}
+----M-------------------------------------------------------
+--------------K--TNAKL-P--D-----V-TF-RTRVR---D-E--SI---E----
+--G-PNPFRWQDMTTADYF-A-GKRVILFSLPGAFTPTCSTYQLPGFENNFEEF-K-AN-
+GIDEIYCLSVNDSFVMNQWAKAQ--GIK----NVKVIPDGSGEFTRRMGMLVNKD--NL-
+GFG-P-RSWRYAAIVNNGVIEAWFEEPGLMD-NCPDDPYG-ESSPETLLSYLKQAVAA--
+E-----------------------------------------------------------
+-----------------
+>WP_007798629.1  {Pelagibaca bermudensis}
+----M-------------------------------------------------------
+--------------K--TGMKL-P--D-----V-TF-RTRVR---D-E--AV---G----
+--G-PNPFRWQDMTTADYF-A-GKRVVLFALPGAFTPTCSTYQLPGFENGFADF-Q-AA-
+GVDEIYCLSVNDSFTMNKWAELQ--GIS----NVKVIPDGSGDFTRRMGMLVAKD--NL-
+GFG-A-RSWRYAAVVNDGVIEAWFEEPGLMD-NCPDDPYG-VSSPETLLAYLQNEAVA--
+---------------A------------E-------------------------------
+-----------------
+>YP_006572897.1  {Phaeobacter inhibens}
+----M-------------------------------------------------------
+--------------K--AGVKL-P--D-----V-TF-RTRVR---D-E--SV---G----
+--G-PNPFRWEDKTTADYF-A-GKRVVLFSLPGAFTPTCSTYQLPGFEKGFADF-Q-AE-
+GIDAIYCMSVNDSFVMNKWAESQ--NLK----NVGVIPDGSGEFTRRIGMLVAKD--NL-
+GFG-N-RSWRYAAIVDNGVVEAWFEEPGLCD-NHGEDPYG-VSSPETVLEHLKTAKAE--
+V--------------A-----------------------------------------A--
+-----------------
+>WP_007119512.1  {Oceanibulbus indolifex}
+----M-------------------------------------------------------
+--------------K--PGIQV-P--N-----V-TF-KTRVR---D-D--SI---E----
+--G-NNPFRWEDKTSEDFF-K-GKRVVLFSLPGAFTPTCSTYQLPGFENNFAAF-Q-EH-
+GIDGIYCLSVNDSFVMNKWKEMQ--GVE----NIDVIPDGSGEFTRRMGMLVAKD--NL-
+GFG-A-RSWRYAAIVNDGQIEAWFEEPGISD-NHGDDPYG-VSSPETVLEYLENQKKT--
+E--------------A-----------------------------------------A--
+-----------------
+>WP_008328960.1  {Maritimibacter alkaliphilus}
+----M-------------------------------------------------------
+--------------N--VGDRI-P--A-----C-TF-KTRVR---D-E--SV---G----
+--G-PNPFRWQDMTSDDYF-A-GKRVVLFSLPGAFTPTCSTYQLPGFEKGFSDF-A-AQ-
+GIDEIYCMSVNDSFVMNKWAIDQ--GLT----NVKVIPDGSGEFTKAMGMLVAKD--NL-
+GFG-A-RSWRYAAIVNDGVIEALFVEPGMCD-NHGEDPYG-ESSPENVLKWLKENATA--
+T--------------A--------------------------------------------
+-----------------
+>WP_010392270.1  {Paracoccus sp. TRP}
+----M-------------------------------------------------------
+--------------K--PGDQL-P--Q-----V-TF-RTRVR---D-E--SV---G----
+--G-PNPYRWQDMTTDDYF-K-GKRVVLFSLPGAFTPTCSTYQLPGFEKAAAEM-A-EL-
+GIEAIYCLSVNDSFVMNQWAKAQ--DLK----NVKVIPDGSGEFTEKVGMLVRKD--NL-
+GFG-A-RSWRYAAVVNNGQIEAWFEEPGRMD-DCPEDPYG-VSSPETVLDWLRANPAK--
+V--------------A-----------------------------------------A--
+-----------------
+>YP_001891800.1  {Francisella tularensis}
+----M-------------------------------------------------------
+------------------TKKV-P--N-----V-TF-KTRVR---D-E--SI---G----
+--G-SNSFRWQDVTSADIF-D-NKRVIVFSLPGAFTPTCSTYQLPGFENNAARF-K-EL-
+GIDEIYVLSVNDSFVMNKWIQVQ--GIQ----NIKPIPDGNGEFTEALDMLVDKS--NI-
+GFG-K-RSWRYAMIVNNGEIEKMFVEPGKRD-NADNDPYG-ESSPENLLKYLESK-----
+------------------------------------------------------------
+-----------------
+>WP_004287651.1  {Francisella philomiragia}
+----M-------------------------------------------------------
+------------------TKRV-P--N-----V-TF-KTRVR---D-E--SI---G----
+--G-SNPFRWQDVTSADIF-D-NKRVIVFSLPGAFTPTCSTYQLPGFENNAARF-K-EL-
+GIDEIYVLSVNDSFVMNKWIQAL--DVK----NIKPIPDGNGEFTEALDMLVDKS--NL-
+GFG-K-RSWRYAMIVNNHEIEKMFVEPGKRD-NAEDDPYG-ESSPENLLKYLEAK-----
+------------------------------------------------------------
+-----------------
+>YP_006316950.1  {Francisella noatunensis}
+----M-------------------------------------------------------
+------------------TKRV-P--N-----V-TF-KTRVR---D-E--SI---G----
+--G-SSPFKWQDVTSSDIF-D-NKRVIVFSLPGAFTPTCSTYQLPGFENNAARF-K-EL-
+GIDEIYVLSVNDSFVMNKWIQAL--DVK----NIKPIPDGNGEFTEALDMLVDKS--NL-
+GFG-K-RSWRYAMIVNNHEIEKMFVEPGKRD-NAEDDLYG-ESSPENLLKYLEAK-----
+------------------------------------------------------------
+-----------------
+>YP_001517986.1  {Acaryochloris marina MBIC11017}
+----M-------------------------------------------------------
+--------------AVFATERV-P--D-----V-VF-KTRVR---D-E--SV---P----
+--G-PNPYRWQDKTTQDIF-G-GKRVVLFSLPGAFTPTCSSTHLPRYEELHEEI-K-AQ-
+GVDEIICLSVNDAFVMFQWGKHQ--GAD----KVFLLPDGNGEFTRKMGMLVDKS--NL-
+GFG-M-RSWRYSMVVNNGQIEKMFIEADYGD-NCPTDPFE-VSDADTMLAYLKGVHAT--
+A--------------A------------------------------------PTAAAV--
+---G-------------
+>YP_005071632.1  {Arthrospira platensis NIES-39}
+----M-------------------------------------------------------
+-----------------VIEKV-P--D-----V-VF-KTRVR---D-E--SV---G----
+--G-PNPFRWQDRTTQEIF-G-GKRVVVFSLPGAFTPTCSSTHLPRYEELYDEI-K-AQ-
+GIDEIVCVSVNDAFVMFQWGKQQ--GAD----KVFLLPDGNGEFTRKMGMLVDKS--NL-
+GFG-M-RSWRYSMVVNDGKIEKIFVEPDFGD-NCPTDPFE-VSDADTMLAYLKG------
+------------------------------------------------------------
+-----------------
+>WP_009554039.1  {Oscillatoriales cyanobacterium JSC-12}
+----M-------------------------------------------------------
+--------------A--AVTRV-P--N-----V-VF-KTRVR---D-E--SV---E----
+--G-PNPFRWQDRTTQEIF-G-GKRVVVFSLPGAFTPTCSSTHLPRYEELYDEI-R-AQ-
+GIDQVICISVNDAFVMFQWGKQQ--GAK----NVFLLPDGNGEFTRKMGMLVDKS--NL-
+GFG-M-RSWRYSMVVNDCEIEKIFIEPDFAD-NCPTDPFE-VSDADTMLTYLKTAKVP--
+-T-------------A-----------------------------------------V--
+---A-------------
+>YP_007159554.1  {Anabaena cylindrica PCC 7122}
+----M-------------------------------------------------------
+--------------A--VIETV-P--N-----V-VF-KTRVR---D-E--SI---G----
+--G-PNPFRWQERTTQELF-A-GKRVVVFSLPGAFTPTCSTSHLPRYEELYKDF-Q-AL-
+GVDSVICVSVNDAFVMFQWGKQQ--NAE----NVFLLPDGNGEFTRKMGMLVDKA--NL-
+GFG-M-RSWRYSMVVNDGKIEKMFVEPGFDD-NCPTDPFE-VSDADTMLAYLKSA-----
+------------------------------------------------------------
+-----------------
+>YP_007069293.1  {Calothrix sp. PCC 7507}
+----M-------------------------------------------------------
+--------------A--VITKV-P--N-----V-VF-KTRVR---D-E--SI---G----
+--G-TNPFRWQDRTTQEIF-A-GKRVVVFSLPGAFTPTCSTSHLPRYEELYQDF-K-AL-
+GVDQVICISVNDAFVMFQWGKQQ--GAQ----NVFLLPDGNGEFTRKMGMLVDKS--NL-
+GFG-L-RSWRYSMVVNDGNIEKIFIEPGFDD-NCPTDPFE-VSDADTMLAYLKEARTA--
+-V-------------A-----------------------------------------V--
+-----------------
+>YP_001734053.1  {Synechococcus sp.}
+----M-------------------------------------------------------
+-------------------ARV-P--D-----V-VF-KTRVR---D-E--SV---E----
+--G-PNPYRWEDKTTADIF-G-GKKVVLFSLPGAFTPTCSSNHLPRYEELYSEF-Q-AQ-
+GVDEIICLSVNDAFVMFKWGKEI--GAD----KVFLLPDGNGEFTRKMGMLVEKS--NL-
+GFG-M-RSWRYSMLVEDGEIKKMFVEPDFSD-NCPTDPFE-VSDADTMLAYIKGESAP--
+GV-------------S------------E-----------------------PRKEFV--
+---G-------------
+>YP_343352.1  {Nitrosococcus oceani}
+----M-------------------------------------------------------
+--------------H--RIEYV-P--D-----A-TF-KTRVR---D-E--SL---E----
+--G-SNPYRWQDITSKEIF-A-GKKVIVFSLPGAFTPTCSSNHLPRYEELYDEF-K-AM-
+GIDEIYCISVNDAFVMFQWSRHM--EAK----KVKMLPDGNGEFTRKMGMLVDKS--NL-
+GFG-M-RAWRYSMLVDDGKIEELFVEPDFSD-NCPTDPFQ-VSDADTMLAALKGEEPT--
+EV-------------S------------E-----------------------PRRAFV--
+---G-------------
+>YP_004511903.1  {Methylomonas methanica}
+----M-------------------------------------------------------
+------------------SETV-P--S-----V-VF-KTRVR---D-E--SI---G----
+--G-DNPFRWQDVSSDDIF-K-GKKVVVLALPGAFTPTCSSTHLPGYEAKYQDI-I-AQ-
+GVDEVYCLSVNDAFTMFQWAKHL--GVQ----NVKMLPDGNGDFTRGMGMLVKKE--NL-
+GFG-Y-RSWRYSMLVEDGKIVKLFSEAGQAD-NHPEDPFE-VSDADTMLAYLKQ------
+------------------------------------------------------------
+-----------------
+>NP_885227.1  {Bordetella parapertussis 12822}
+----M---------------------------------------------L------Q-N
+--------------R--EGQRV-P--S-----V-TF-PVREN---N-A------------
+---------WKQVTTDDVF-K-NKTVVVFSLPGAFTPTCSSTHLPRYNELAPAF-F-AA-
+GVDSIVCVSVNDTFVMNEWAKDQ--ESA----NVTLLPDGNGEFTDGMGMLVDKK--DL-
+GFG-K-RSWRYAMLVKDGVVEKMFIEP-----EKEGDPFE-VSDADTMLAYVAPQARKPD
+RVVVFSKPGCPFCVDAKALLKGKGFDPIEIPLDN-KVRG-RVIGAVSGGDTAP-QVFING
+KLIGGFDALKAYLA---
+>YP_004681256.1  {Cupriavidus necator N-1}
+----M---------------------------------------------L------Q-S
+--------------R--EGQRV-P--N-----V-AF-RMRED---N-E------------
+---------WKTVTTGELF-N-GKTVVVFSLPGAFTPTCSSTHLPRYNELAPVF-A-KH-
+GVDDILCVSVNDTFVMNEWAKDQ--ESE----NITMIPDGNGEFTEGMGMLVDKA--DL-
+GFG-K-RSWRYAMLVKDGVVQKMFIEP-----EEPGDPFK-VSDADTMLAHIAPNARKPD
+QVVVFSKVGCSFCAKAKQLLDDNGFDYIDVPLDN-KVRG-KVLGAVSGEMTAP-QVFING
+KLIGGAEALQQYLG-K-
+>YP_005895931.1  {Neisseria meningitidis M01-240149}
+--------------------------------------------------M------Q-D
+--------------R--TGQKV-P--S-----V-VF-RTRVG---D-T------------
+---------WKDVSTDDLF-K-GKKVVVFSLPGAFTPTCSSSHLPRYNELFGAF-K-EN-
+GVDAIYCVSVNDTFVMNAWAAEE--ESD----NIYMIPDGNGEFTEGMGMLVGKE--DL-
+GFG-K-RSWRYSMLVNDGVVEKMFIEP-----EEPGDPFK-VSDADTMLKFVAPNWKAQE
+SVAIFTKPGCQFCAKAKQALQDKGLSYEEIVLGK-DATV-TSVRAITGKMTAP-QVFIGG
+KYIGGSEDLEAYLA-KN
+>YP_003739564.1  {Erwinia billingiae Eb661}
+----M---------------------------------------------F------A-S
+--------------Q--EGKSV-P--Q-----V-TF-HTRQG---D-N------------
+---------WVDVTTDELF-K-DKTVILFSLPGAFTPTCSSSHLPRYNELSDVF-K-KH-
+GVDSILCVSVNDTFVMNAWKADQ--HAS----NITFIPDGNGDFTRGMEMLVEKA--DL-
+GFG-P-RSWRYSMLVRNGVVEKMFVEP-----NKPGDPFE-VSDADTMLRYLAPEFKVQE
+SVSLFTKPGCSFCAKAKQMLQDRGIQYEEIVLGQ-DATT-VSLRAVTGRATVP-QVFIGG
+RHIGGSDDLEKFFV-A-
+>NP_667659.1  {Yersinia pestis KIM10+}
+----M---------------------------------------------F------T-S
+--------------Q--EGKKV-P--Q-----V-TF-HTRQG---D-Q------------
+---------WIDVTTDDLF-S-NKTVIVFSLPGAFTPTCSSSHLPRYNELAGVF-K-QH-
+GVDSILCVSVNDTFVMNAWKSDQ--HAE----NITFVPDGNGEFTKGMNMLVEKA--DL-
+GFG-P-RSWRYSMLVRNGVVEKMFVEP-----NKPGDPFE-VSDADTMLKYLAPDFKVQE
+SVAVFTKPGCPFCAKAKQMLQDHGLQYEEIVLGK-DATT-VSLRAVSGRSTVP-QIFIGG
+RHIGGSDDLEKYLP-A-
+>WP_006233858.1  {Photobacterium profundum}
+----M---------------------------------------------F------A-S
+--------------K--EGQAV-P--Q-----V-TF-HTRQG---D-A------------
+---------WVDVTTEELF-A-NKTVVLFSLPGAFTPTCSSSHLPRYNELASVF-A-EH-
+GVDEIVCVSVNDTFVMNAWKADQ--EAE----NITFIPDGNGEFSKGMNMLVDKE--DL-
+GFG-P-RSWRYSMLVKNGVVEKMFVEQ-----EEPGDPFK-VSDADTMLNYVAPNHKLQE
+SITVFSKPGCPFCAKAKQNLIDKGLQYEEVVLGK-DATT-VSLRAITGRSTVP-QVFIGG
+KHIGGSEELETYLA---
+>WP_001903937.1  {Vibrio cholerae}
+MRNTM---------------------------------------------F------T-S
+--------------K--EGQTI-P--Q-----V-TF-PTRQG---D-A------------
+---------WVNVTSDELF-K-GKTVIVFSLPGAFTPTCSSTHLPRYNELYPVF-K-EN-
+GVDSILCVSVNDTFVMNAWKDDQ--NAD----NITFIPDGNGEFTDGMGMLVDKN--DL-
+GFG-K-RSWRYSMLVKDGVVEKMFIEP-----NEPGDPFK-VSDADTMLKYIAPQYKVQE
+SVTIFTKPGCPYCAKAKQALIDAGLQYEELILGK-DATT-VSLRAVSGRTTVP-QVFIGG
+KHIGGSDDLEVYLN-Q-
+>YP_944754.1  {Psychromonas ingrahamii 37}
+----M---------------------------------------------L------D-N
+--------------I--EGQKI-P--N-----V-TF-PTRQG---D-Q------------
+---------WVNVSTDELF-A-GKTVVVFALPGAFTPTCSSMHLPRYNELAGVF-K-EN-
+GVDEIICSSVNDTFVMNSWIADQ--EAE----NITVVPDGNGTFAEGMGMLVDKS--DL-
+GFG-K-RSWRYSMLVKDGVIEKMFIEP-----NQPGDPFE-VSDADTMLNYINPKAKAPA
+AVTLFTKPGCPFCATAKAALKDNNIAFEEIVLGK-DATS-VSLRAVSGESTFP-QLFVDG
+KHIGDSEAVIAYV--KG
+>WP_010555882.1  {Pseudoalteromonas marina}
+----M---------------------------------------------L------K-N
+--------------I--EGQTI-P--N-----V-TF-ATRQN---D-E------------
+---------WKSVTTDEIF-K-GRTVAVFSLPGAFTPTCSSTHLPRYNELAGVF-K-QN-
+GVDEIVCLSVNDTFVMNAWAEHQ--EAQ----NITLLPDGNGEFTDGMGMLVDKN--DL-
+GFG-K-RSWRYSMLVKDGVIEKMFIEP-----DLPGDPFE-VSDADTMLDYINPKQAKPE
+PVSVFTKPGCPFCKKAKELLTEKGFAYEEIVMGA-GASL-TSLKAISGRDTVP-QVFIGG
+KHIGGSDDLEKYFA---
+>WP_005707035.1  {Haemophilus parahaemolyticus}
+----M--------------------------------------------SL------K-D
+--------------M--TGQKV-P--S-----V-TF-HTRQG---D-T------------
+---------WVDVTTDEIF-N-NKKVVVFSLPGAFTPTCSSTHLPRYNELAKEF-Y-AL-
+GVDEIVCLSVNDTFVMNAWKADQ--ECQ----NVTVLPDGNGDFTRGMGMLVSKN--DL-
+GFG-D-RSWRYSMFVNNGVVEKMFIEP-----QEPGDPFK-VSDADTMIKYLNPSWEAKP
+SVSIITKPGCPFCAKAKALLEVKGFPYEEIVLGK-DAST-TSVRAITGRTSVP-QVFIGG
+KHIGGSDELQAYFDVK-
+>YP_390409.1  {Thiomicrospira crunogena XCL-2}
+----M-------------------------------------SQ-----AL------E-N
+--------------K--EGQTV-P--S-----V-VW-PTRQN---N-E------------
+---------WVNVKSDDIF-K-GRTVVVFSLPGAFTPTCSSSHLPRYNELAPVF-F-EN-
+GVDEIVCLSVNDTFVMNEWAKDQ--ECT----NVTLIPDGNGEFTDGMGMLVDKS--DL-
+GFG-K-RSWRYSMLVKDGVVEKMFIEP-----NVPGDPFE-VSDADTMLKYINPNAQPKK
+VATIFTKPGCPFCAKAKAALEDAGIEYEEITVSHADVTS-RTLRAVANADTVP-QVFIEG
+QHIGGSDDLEAYLA-K-
+>YP_694352.1  {Alcanivorax borkumensis SK2}
+----M---------------------------------------------F------E-N
+--------------R--EGQPV-P--A-----V-TF-RTREG---N-E------------
+---------WKDVTTDDVF-K-GKTVVVFALPGAFTPTCSSTHLPRYNELAPVL-K-AN-
+GVDDIVCLSVNDGFVMNAWAGDQ--AAG----NIHFIPDGNGEFTDKMGMLVNKQ--DL-
+GFG-P-RSWRYSMLVKDGVIDRMFIEP-----DKPGDPFE-VSDADTMLKYINGEAVLPK
+RVTVFTKPGCPHCTRAKQALTDYGYAFEEIELGS-RGLSYSSLAAVTGAGTTP-QIYIEG
+ERIGGADELEAWLQ-QG
+>WP_007022141.1  {Neptuniibacter caesariensis}
+----M---------------------------------------------L------Q-N
+--------------S--EGKNI-P--Q-----V-TF-HTRQG---N-D------------
+---------WVDVTSEQLF-K-GKTVIVFALPGAFTPTCSSTHLPRYNELAPVF-A-AN-
+GVDEIICLSVNDTFVMNAWAEDQ--KAE----NVTFLPDGNGEFSEAMGMLVDKD--EL-
+GFG-K-RSWRYSMLVKDGVIDKMYIEP-----DLPGDPFQ-VSDADTMLDYINPQAEQPK
+RVTIISKPGCPHCTRAKNVLTENGYKYEEIELGT-NGVSFSSLQAVTGRGTTP-QIFVDG
+ELVGSADELEAWVA-K-
+>YP_431497.1  {Hahella chejuensis KCTC 2396}
+----M---------------------------------------------L------Q-S
+--------------R--EGQTV-P--S-----V-TF-NLREG---E-K------------
+---------WVQVTTDDLF-K-GKNVIVFALPGAFTPTCSSTHLPRYNELAPVF-K-QN-
+GIDAIICLSVNDTFVMNSWKADQ--KAE----NIYFLADGNGEFSAGMGMLVEKS--EL-
+GFG-K-RSWRYSMLVRDGVIEKMFIEP-----ELPGDPFK-VSDADTMLNYINKEAVLPN
+RVTVFSKPGCPHCARAHKLLNDRGISFENIVLGA-NGLSYSTLQAVTGQGTTP-QIYIDG
+QRIGGADDLEAHFGV--
+>YP_004872801.1  {Glaciecola nitratireducens FR1064}
+----M-------------------------------------AQ---PTSL------P-N
+--------------Q--EGKKV-P--D-----V-TW-PVRSG---D-E------------
+---------WKKMSSKEIF-S-GRRVILFSLPGAFTPTCSSTHLPRYNQLASTF-K-KL-
+GIDEVCCMSVNDTFVMNAWLADQ--EAE----NITVIPDGNGEFTHGMEMLVDKG--DI-
+GFG-K-RSWRYSMVVDDGVVEKMFIEP-----NIPGDPFE-VSDADTMLAYLSPGAKAPE
+EVSLFTKPGCPFCAKAKVMLKDSGYDFEEIVLGT-QATL-ASLKAVSGRDTVP-QIFIGG
+KHIGGSEELEAYLK-SV
+>XP_004338942.1  {Acanthamoeba castellanii}
+----M--------------NR-TA----------------SVSRTAFTV-A------ARQ
+TTVRGSQALFARSYA--VGQNL--L-E---GQA-NL-KA---V--D--------------
+--G-------KDLSLTDLF-K-GKKVVVFGLPGAFTPVCTSRHVPGYVDSADKF-K-AK-
+GVDNVVCVSVNDPFVMKAWGESL--KAN----NITLVADWDSSFTKLVDKELDLS--AA-
+GLG-K-RCRRYSLIVDNGKIVKENIE------N--A-P----N--E--------------
+------------------------------------------------------------
+-----------------
+>NP_587706.1  {Schizosaccharomyces pombe}
+----M-------------------------------------------------------
+--V-----------A--VGSTL-P--K-----V-TL------W----E-------N----
+--K---P---EEV--VEFP-S-QGKFIIVGVPGAFTPPCSS-QVPGYIANEKQF-A-AK-
+GISGIYVVAVNDVFVTKAWKKSFDGGEQ-S--GVHFVADWNGEFTKAFDAGFDAS--GLL
+G-P-L-RSKRYAAVVENGKVVKVFIEN-----EV--TDVD-ISSADKVLSSL--------
+------------------------------------------------------------
+-----------------
+>EJY72164.1  {Oxytricha trifallax}
+----M--I------------R-------------------QQMR-----YF------S--
+--V-----------K--IGDKF-P--S-----A-VV-AI-VKY--D-K--D----E----
+--GY--S--NEIVDINEYL-E-KKNVVLVGYPGCFTPTCQSQQLPQFLKASDEL-K-QQ-
+GADEILALSVNDPFVVTAFAEYL--GAK-D--RMNFIADGNGELTMALGLGMDLT--AV-
+QLGPV-RSTRFTMIVKDNNILELNDEG--------GAQFTEKSCAATIKDQLTP------
+-V----------------------------------------------------R--I--
+-----------------
+>EWH17271.1  {Saccharomyces cerevisiae}
+----M----------------------------------------------------S-D
+--L--------------VNKKF-PAGDYKFQYI-AISQSDA----DSE--SC---K----
+-----MP---QTVEWSKLISE-NKKVIITGAPAAFSPTCTVSHIPGYINYLDELVK-EK-
+EVDQVIVVTVDNPFANQAWAKSL--GVK-DTTHIKFASDPGCAFTKSIGFELAVG--D--
+--G-VYWSGRWAMVVENGIVTYAAKET-----N-PGTDVT-VSSVESVLAHL--------
+------------------------------------------------------------
+-----------------

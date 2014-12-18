@@ -1,0 +1,364 @@
+
+
+This is RAxML version 8.0.26 released by Alexandros Stamatakis on June 25 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 363 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 50.82%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 100 inferences on the original alignment using 100 distinct complete random trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 363
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: WAG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+/home/huerta/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -T28 -s ../manual.fa -p31416 -f d -m PROTGAMMAWAG -n fullscan_100seed -j -N100 -d 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.049 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Inference[0]: Time 82.695347 GAMMA-based likelihood -17136.637277, best rearrangement setting 15
+alpha[0]: 1.174210 
+Inference[1]: Time 94.792567 GAMMA-based likelihood -17138.445748, best rearrangement setting 25
+alpha[0]: 1.172442 
+Inference[2]: Time 81.461376 GAMMA-based likelihood -17134.774295, best rearrangement setting 25
+alpha[0]: 1.136844 
+Inference[3]: Time 81.036290 GAMMA-based likelihood -17134.649798, best rearrangement setting 20
+alpha[0]: 1.197623 
+Inference[4]: Time 82.300929 GAMMA-based likelihood -17136.348606, best rearrangement setting 25
+alpha[0]: 1.189064 
+Inference[5]: Time 62.622998 GAMMA-based likelihood -17140.877993, best rearrangement setting 15
+alpha[0]: 1.176738 
+Inference[6]: Time 87.527340 GAMMA-based likelihood -17136.604527, best rearrangement setting 15
+alpha[0]: 1.192870 
+Inference[7]: Time 81.508312 GAMMA-based likelihood -17134.682902, best rearrangement setting 20
+alpha[0]: 1.162339 
+Inference[8]: Time 99.811617 GAMMA-based likelihood -17138.477362, best rearrangement setting 20
+alpha[0]: 1.161271 
+Inference[9]: Time 70.043242 GAMMA-based likelihood -17140.927141, best rearrangement setting 10
+alpha[0]: 1.163427 
+Inference[10]: Time 73.974413 GAMMA-based likelihood -17134.671675, best rearrangement setting 25
+alpha[0]: 1.216470 
+Inference[11]: Time 81.306272 GAMMA-based likelihood -17134.674530, best rearrangement setting 25
+alpha[0]: 1.166060 
+Inference[12]: Time 73.414848 GAMMA-based likelihood -17141.557207, best rearrangement setting 25
+alpha[0]: 1.283214 
+Inference[13]: Time 81.544228 GAMMA-based likelihood -17134.718380, best rearrangement setting 20
+alpha[0]: 1.150324 
+Inference[14]: Time 77.335057 GAMMA-based likelihood -17136.780152, best rearrangement setting 10
+alpha[0]: 1.218713 
+Inference[15]: Time 81.405750 GAMMA-based likelihood -17134.676969, best rearrangement setting 20
+alpha[0]: 1.164919 
+Inference[16]: Time 98.226536 GAMMA-based likelihood -17134.683687, best rearrangement setting 10
+alpha[0]: 1.162016 
+Inference[17]: Time 75.903168 GAMMA-based likelihood -17136.779604, best rearrangement setting 15
+alpha[0]: 1.208179 
+Inference[18]: Time 95.850629 GAMMA-based likelihood -17134.661324, best rearrangement setting 15
+alpha[0]: 1.210058 
+Inference[19]: Time 79.641553 GAMMA-based likelihood -17140.825246, best rearrangement setting 20
+alpha[0]: 1.275226 
+Inference[20]: Time 81.681720 GAMMA-based likelihood -17136.366820, best rearrangement setting 15
+alpha[0]: 1.176999 
+Inference[21]: Time 76.836601 GAMMA-based likelihood -17134.669914, best rearrangement setting 15
+alpha[0]: 1.168383 
+Inference[22]: Time 100.251277 GAMMA-based likelihood -17134.683786, best rearrangement setting 25
+alpha[0]: 1.222373 
+Inference[23]: Time 109.270303 GAMMA-based likelihood -17134.745029, best rearrangement setting 10
+alpha[0]: 1.143370 
+Inference[24]: Time 86.528023 GAMMA-based likelihood -17137.652745, best rearrangement setting 25
+alpha[0]: 1.165066 
+Inference[25]: Time 90.276671 GAMMA-based likelihood -17134.679025, best rearrangement setting 10
+alpha[0]: 1.163996 
+Inference[26]: Time 89.367744 GAMMA-based likelihood -17134.661318, best rearrangement setting 15
+alpha[0]: 1.173535 
+Inference[27]: Time 73.250534 GAMMA-based likelihood -17140.864305, best rearrangement setting 20
+alpha[0]: 1.195637 
+Inference[28]: Time 81.943173 GAMMA-based likelihood -17134.648450, best rearrangement setting 15
+alpha[0]: 1.192808 
+Inference[29]: Time 100.932794 GAMMA-based likelihood -17134.738298, best rearrangement setting 25
+alpha[0]: 1.145017 
+Inference[30]: Time 87.696321 GAMMA-based likelihood -17134.763341, best rearrangement setting 25
+alpha[0]: 1.139179 
+Inference[31]: Time 76.816018 GAMMA-based likelihood -17134.702258, best rearrangement setting 15
+alpha[0]: 1.155246 
+Inference[32]: Time 67.657944 GAMMA-based likelihood -17134.694855, best rearrangement setting 25
+alpha[0]: 1.157769 
+Inference[33]: Time 80.672574 GAMMA-based likelihood -17138.678885, best rearrangement setting 25
+alpha[0]: 1.140929 
+Inference[34]: Time 74.487001 GAMMA-based likelihood -17141.607940, best rearrangement setting 25
+alpha[0]: 1.264810 
+Inference[35]: Time 74.871363 GAMMA-based likelihood -17137.890154, best rearrangement setting 15
+alpha[0]: 1.159426 
+Inference[36]: Time 74.507074 GAMMA-based likelihood -17136.543067, best rearrangement setting 15
+alpha[0]: 1.231877 
+Inference[37]: Time 79.558816 GAMMA-based likelihood -17136.344185, best rearrangement setting 25
+alpha[0]: 1.198556 
+Inference[38]: Time 94.849001 GAMMA-based likelihood -17138.456614, best rearrangement setting 15
+alpha[0]: 1.206281 
+Inference[39]: Time 82.482898 GAMMA-based likelihood -17134.649650, best rearrangement setting 15
+alpha[0]: 1.197296 
+Inference[40]: Time 81.586935 GAMMA-based likelihood -17134.741048, best rearrangement setting 20
+alpha[0]: 1.144336 
+Inference[41]: Time 71.579872 GAMMA-based likelihood -17134.648819, best rearrangement setting 15
+alpha[0]: 1.188262 
+Inference[42]: Time 69.343683 GAMMA-based likelihood -17134.663500, best rearrangement setting 15
+alpha[0]: 1.172091 
+Inference[43]: Time 100.805236 GAMMA-based likelihood -17136.610538, best rearrangement setting 25
+alpha[0]: 1.187524 
+Inference[44]: Time 93.968587 GAMMA-based likelihood -17136.465203, best rearrangement setting 20
+alpha[0]: 1.249473 
+Inference[45]: Time 74.750855 GAMMA-based likelihood -17136.620024, best rearrangement setting 20
+alpha[0]: 1.181760 
+Inference[46]: Time 75.779862 GAMMA-based likelihood -17136.600702, best rearrangement setting 15
+alpha[0]: 1.205484 
+Inference[47]: Time 89.509004 GAMMA-based likelihood -17136.613758, best rearrangement setting 25
+alpha[0]: 1.185342 
+Inference[48]: Time 95.641549 GAMMA-based likelihood -17134.648412, best rearrangement setting 20
+alpha[0]: 1.190855 
+Inference[49]: Time 81.541170 GAMMA-based likelihood -17134.650102, best rearrangement setting 15
+alpha[0]: 1.198248 
+Inference[50]: Time 76.441662 GAMMA-based likelihood -17138.483460, best rearrangement setting 15
+alpha[0]: 1.173552 
+Inference[51]: Time 70.010969 GAMMA-based likelihood -17136.625202, best rearrangement setting 10
+alpha[0]: 1.179224 
+Inference[52]: Time 70.294825 GAMMA-based likelihood -17134.656904, best rearrangement setting 10
+alpha[0]: 1.176900 
+Inference[53]: Time 96.333409 GAMMA-based likelihood -17134.652249, best rearrangement setting 20
+alpha[0]: 1.201617 
+Inference[54]: Time 87.164616 GAMMA-based likelihood -17136.349633, best rearrangement setting 20
+alpha[0]: 1.188006 
+Inference[55]: Time 74.604128 GAMMA-based likelihood -17136.406166, best rearrangement setting 20
+alpha[0]: 1.163045 
+Inference[56]: Time 86.153901 GAMMA-based likelihood -17136.629917, best rearrangement setting 20
+alpha[0]: 1.177143 
+Inference[57]: Time 96.935676 GAMMA-based likelihood -17134.743085, best rearrangement setting 20
+alpha[0]: 1.143839 
+Inference[58]: Time 80.009717 GAMMA-based likelihood -17136.392015, best rearrangement setting 20
+alpha[0]: 1.167307 
+Inference[59]: Time 87.378038 GAMMA-based likelihood -17136.295983, best rearrangement setting 20
+alpha[0]: 1.169325 
+Inference[60]: Time 103.279449 GAMMA-based likelihood -17134.695814, best rearrangement setting 15
+alpha[0]: 1.157431 
+Inference[61]: Time 77.647995 GAMMA-based likelihood -17134.661378, best rearrangement setting 15
+alpha[0]: 1.173493 
+Inference[62]: Time 64.698381 GAMMA-based likelihood -17136.676778, best rearrangement setting 10
+alpha[0]: 1.162087 
+Inference[63]: Time 79.686167 GAMMA-based likelihood -17134.710538, best rearrangement setting 20
+alpha[0]: 1.152633 
+Inference[64]: Time 83.900483 GAMMA-based likelihood -17134.655825, best rearrangement setting 15
+alpha[0]: 1.177852 
+Inference[65]: Time 81.051703 GAMMA-based likelihood -17136.672190, best rearrangement setting 20
+alpha[0]: 1.163291 
+Inference[66]: Time 87.743458 GAMMA-based likelihood -17141.000932, best rearrangement setting 25
+alpha[0]: 1.174336 
+Inference[67]: Time 86.689959 GAMMA-based likelihood -17136.678044, best rearrangement setting 20
+alpha[0]: 1.161762 
+Inference[68]: Time 75.965948 GAMMA-based likelihood -17136.352442, best rearrangement setting 15
+alpha[0]: 1.185545 
+Inference[69]: Time 81.020365 GAMMA-based likelihood -17136.786414, best rearrangement setting 20
+alpha[0]: 1.199209 
+Inference[70]: Time 72.868473 GAMMA-based likelihood -17137.709421, best rearrangement setting 15
+alpha[0]: 1.161557 
+Inference[71]: Time 76.616676 GAMMA-based likelihood -17134.650822, best rearrangement setting 15
+alpha[0]: 1.183696 
+Inference[72]: Time 82.023304 GAMMA-based likelihood -17156.124269, best rearrangement setting 25
+alpha[0]: 1.198169 
+Inference[73]: Time 95.167025 GAMMA-based likelihood -17134.686927, best rearrangement setting 20
+alpha[0]: 1.160719 
+Inference[74]: Time 64.604800 GAMMA-based likelihood -17136.349919, best rearrangement setting 10
+alpha[0]: 1.187729 
+Inference[75]: Time 70.216500 GAMMA-based likelihood -17138.506781, best rearrangement setting 15
+alpha[0]: 1.164642 
+Inference[76]: Time 100.260196 GAMMA-based likelihood -17134.759260, best rearrangement setting 20
+alpha[0]: 1.140080 
+Inference[77]: Time 66.813524 GAMMA-based likelihood -17136.353708, best rearrangement setting 20
+alpha[0]: 1.213104 
+Inference[78]: Time 68.791976 GAMMA-based likelihood -17136.882936, best rearrangement setting 15
+alpha[0]: 1.164034 
+Inference[79]: Time 74.645648 GAMMA-based likelihood -17136.344310, best rearrangement setting 20
+alpha[0]: 1.200384 
+Inference[80]: Time 87.826734 GAMMA-based likelihood -17134.685773, best rearrangement setting 20
+alpha[0]: 1.161174 
+Inference[81]: Time 69.136258 GAMMA-based likelihood -17136.368282, best rearrangement setting 15
+alpha[0]: 1.176316 
+Inference[82]: Time 74.982337 GAMMA-based likelihood -17136.696514, best rearrangement setting 15
+alpha[0]: 1.157298 
+Inference[83]: Time 83.079495 GAMMA-based likelihood -17136.613543, best rearrangement setting 15
+alpha[0]: 1.185479 
+Inference[84]: Time 82.072064 GAMMA-based likelihood -17136.344929, best rearrangement setting 15
+alpha[0]: 1.194750 
+Inference[85]: Time 82.876722 GAMMA-based likelihood -17134.684095, best rearrangement setting 15
+alpha[0]: 1.161849 
+Inference[86]: Time 75.033006 GAMMA-based likelihood -17136.621276, best rearrangement setting 25
+alpha[0]: 1.181118 
+Inference[87]: Time 82.171545 GAMMA-based likelihood -17134.679204, best rearrangement setting 20
+alpha[0]: 1.220276 
+Inference[88]: Time 70.326101 GAMMA-based likelihood -17134.649104, best rearrangement setting 15
+alpha[0]: 1.187300 
+Inference[89]: Time 94.751675 GAMMA-based likelihood -17136.798343, best rearrangement setting 25
+alpha[0]: 1.234988 
+Inference[90]: Time 74.521024 GAMMA-based likelihood -17136.847458, best rearrangement setting 20
+alpha[0]: 1.172927 
+Inference[91]: Time 69.739793 GAMMA-based likelihood -17136.796370, best rearrangement setting 15
+alpha[0]: 1.233828 
+Inference[92]: Time 87.069717 GAMMA-based likelihood -17134.676164, best rearrangement setting 20
+alpha[0]: 1.165290 
+Inference[93]: Time 83.632666 GAMMA-based likelihood -17136.328396, best rearrangement setting 10
+alpha[0]: 1.142618 
+Inference[94]: Time 76.493960 GAMMA-based likelihood -17134.649962, best rearrangement setting 20
+alpha[0]: 1.197969 
+Inference[95]: Time 93.285895 GAMMA-based likelihood -17138.469802, best rearrangement setting 20
+alpha[0]: 1.180729 
+Inference[96]: Time 78.307745 GAMMA-based likelihood -17138.605277, best rearrangement setting 10
+alpha[0]: 1.135163 
+Inference[97]: Time 94.206938 GAMMA-based likelihood -17134.733353, best rearrangement setting 20
+alpha[0]: 1.146270 
+Inference[98]: Time 75.921637 GAMMA-based likelihood -17136.365347, best rearrangement setting 15
+alpha[0]: 1.177709 
+Inference[99]: Time 76.948812 GAMMA-based likelihood -17134.683807, best rearrangement setting 15
+alpha[0]: 1.161967 
+
+
+Conducting final model optimizations on all 100 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.0
+Inference[1] final GAMMA-based Likelihood: -17138.428804 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.1
+Inference[2] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.2
+Inference[3] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.3
+Inference[4] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.4
+Inference[5] final GAMMA-based Likelihood: -17140.870611 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.5
+Inference[6] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.6
+Inference[7] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.7
+Inference[8] final GAMMA-based Likelihood: -17138.428804 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.8
+Inference[9] final GAMMA-based Likelihood: -17140.873343 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.9
+Inference[10] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.10
+Inference[11] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.11
+Inference[12] final GAMMA-based Likelihood: -17142.239787 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.12
+Inference[13] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.13
+Inference[14] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.14
+Inference[15] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.15
+Inference[16] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.16
+Inference[17] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.17
+Inference[18] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.18
+Inference[19] final GAMMA-based Likelihood: -17141.354537 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.19
+Inference[20] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.20
+Inference[21] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.21
+Inference[22] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.22
+Inference[23] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.23
+Inference[24] final GAMMA-based Likelihood: -17137.598760 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.24
+Inference[25] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.25
+Inference[26] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.26
+Inference[27] final GAMMA-based Likelihood: -17140.870078 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.27
+Inference[28] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.28
+Inference[29] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.29
+Inference[30] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.30
+Inference[31] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.31
+Inference[32] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.32
+Inference[33] final GAMMA-based Likelihood: -17138.638955 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.33
+Inference[34] final GAMMA-based Likelihood: -17142.239787 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.34
+Inference[35] final GAMMA-based Likelihood: -17137.903996 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.35
+Inference[36] final GAMMA-based Likelihood: -17136.931338 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.36
+Inference[37] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.37
+Inference[38] final GAMMA-based Likelihood: -17138.468102 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.38
+Inference[39] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.39
+Inference[40] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.40
+Inference[41] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.41
+Inference[42] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.42
+Inference[43] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.43
+Inference[44] final GAMMA-based Likelihood: -17136.931338 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.44
+Inference[45] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.45
+Inference[46] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.46
+Inference[47] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.47
+Inference[48] final GAMMA-based Likelihood: -17134.652854 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.48
+Inference[49] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.49
+Inference[50] final GAMMA-based Likelihood: -17138.468102 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.50
+Inference[51] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.51
+Inference[52] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.52
+Inference[53] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.53
+Inference[54] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.54
+Inference[55] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.55
+Inference[56] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.56
+Inference[57] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.57
+Inference[58] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.58
+Inference[59] final GAMMA-based Likelihood: -17136.304245 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.59
+Inference[60] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.60
+Inference[61] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.61
+Inference[62] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.62
+Inference[63] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.63
+Inference[64] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.64
+Inference[65] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.65
+Inference[66] final GAMMA-based Likelihood: -17140.974605 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.66
+Inference[67] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.67
+Inference[68] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.68
+Inference[69] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.69
+Inference[70] final GAMMA-based Likelihood: -17137.730281 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.70
+Inference[71] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.71
+Inference[72] final GAMMA-based Likelihood: -17156.145809 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.72
+Inference[73] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.73
+Inference[74] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.74
+Inference[75] final GAMMA-based Likelihood: -17138.504991 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.75
+Inference[76] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.76
+Inference[77] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.77
+Inference[78] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.78
+Inference[79] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.79
+Inference[80] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.80
+Inference[81] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.81
+Inference[82] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.82
+Inference[83] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.83
+Inference[84] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.84
+Inference[85] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.85
+Inference[86] final GAMMA-based Likelihood: -17136.619885 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.86
+Inference[87] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.87
+Inference[88] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.88
+Inference[89] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.89
+Inference[90] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.90
+Inference[91] final GAMMA-based Likelihood: -17136.819640 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.91
+Inference[92] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.92
+Inference[93] final GAMMA-based Likelihood: -17136.304245 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.93
+Inference[94] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.94
+Inference[95] final GAMMA-based Likelihood: -17138.468102 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.95
+Inference[96] final GAMMA-based Likelihood: -17138.576463 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.96
+Inference[97] final GAMMA-based Likelihood: -17134.652117 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.97
+Inference[98] final GAMMA-based Likelihood: -17136.357799 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.98
+Inference[99] final GAMMA-based Likelihood: -17134.652118 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan_100seed.RUN.99
+
+
+Starting final GAMMA-based thorough Optimization on tree 52 likelihood -17134.652117 .... 
+
+Final GAMMA-based Score of best tree -17134.652117
+
+Program execution info written to /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_info.fullscan_100seed
+Best-scoring ML tree written to: /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_bestTree.fullscan_100seed
+
+Overall execution time: 8243.623823 secs or 2.289896 hours or 0.095412 days
+

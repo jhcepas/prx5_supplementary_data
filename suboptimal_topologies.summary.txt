@@ -1,0 +1,4 @@
+     16 ((((((Eukaryota,Bacteria),Bacteria),Coccidia),Bacteria),Bacteria),Plasmodium,Plasmodium);
+     23 (((((Eukaryota,Bacteria),Bacteria),Coccidia),Bacteria),Plasmodium,Plasmodium);
+      7 ((((Eukaryota,Bacteria),Bacteria),Coccidia),Plasmodium,Plasmodium);
+     54 ((((Eukaryota,Bacteria),Coccidia),Bacteria),Plasmodium,Plasmodium);

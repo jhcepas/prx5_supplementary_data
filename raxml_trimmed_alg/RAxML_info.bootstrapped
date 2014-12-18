@@ -1,0 +1,41 @@
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_bootstrap.boot onto tree in file ../raxml_on_manual/RAxML_bestTree.fullscan
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -T3 -f b -m PROTGAMMAWAG -n bootstrapped -s manual_trim04.fa -z RAxML_bootstrap.boot -t ../raxml_on_manual/RAxML_bestTree.fullscan 
+
+
+
+
+Found 1 tree in File ../raxml_on_manual/RAxML_bestTree.fullscan
+
+
+
+Found 100 trees in File RAxML_bootstrap.boot
+
+
+
+Found 1 tree in File ../raxml_on_manual/RAxML_bestTree.fullscan
+
+
+
+Time for Computation of Bipartitions 0.054090
+Tree with bipartitions written to file:  /g/bork/huerta/prx5/prx5/raxml_manual_trim04/RAxML_bipartitions.bootstrapped
+Tree with bipartitions as branch labels written to file:  /g/bork/huerta/prx5/prx5/raxml_manual_trim04/RAxML_bipartitionsBranchLabels.bootstrapped
+Execution information file written to :  /g/bork/huerta/prx5/prx5/raxml_manual_trim04/RAxML_info.bootstrapped

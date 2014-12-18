@@ -1,0 +1,94 @@
+
+
+This is RAxML version 8.0.26 released by Alexandros Stamatakis on June 25 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 349 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 48.50%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 10 inferences on the original alignment using 10 distinct complete random trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 349
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: WAG
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+/home/huerta/standard-RAxML-master/raxmlHPC-PTHREADS-SSE3 -T28 -s ../manual.fa -p31416 -f d -m PROTGAMMAWAG -n fullscan -j -N10 -d 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.049 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Inference[0]: Time 90.403272 GAMMA-based likelihood -17239.373990, best rearrangement setting 10
+alpha[0]: 1.173836 
+Inference[1]: Time 91.760855 GAMMA-based likelihood -17240.896855, best rearrangement setting 20
+alpha[0]: 1.180278 
+Inference[2]: Time 73.465211 GAMMA-based likelihood -17239.335421, best rearrangement setting 15
+alpha[0]: 1.191829 
+Inference[3]: Time 87.301208 GAMMA-based likelihood -17239.327767, best rearrangement setting 10
+alpha[0]: 1.203022 
+Inference[4]: Time 103.850947 GAMMA-based likelihood -17239.327672, best rearrangement setting 15
+alpha[0]: 1.203968 
+Inference[5]: Time 100.174531 GAMMA-based likelihood -17239.375851, best rearrangement setting 15
+alpha[0]: 1.173238 
+Inference[6]: Time 77.351459 GAMMA-based likelihood -17239.327688, best rearrangement setting 25
+alpha[0]: 1.203725 
+Inference[7]: Time 81.926123 GAMMA-based likelihood -17239.339389, best rearrangement setting 15
+alpha[0]: 1.188941 
+Inference[8]: Time 104.518450 GAMMA-based likelihood -17239.361627, best rearrangement setting 25
+alpha[0]: 1.178175 
+Inference[9]: Time 104.634612 GAMMA-based likelihood -17239.373193, best rearrangement setting 15
+alpha[0]: 1.174096 
+
+
+Conducting final model optimizations on all 10 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.0
+Inference[1] final GAMMA-based Likelihood: -17240.892963 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.1
+Inference[2] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.2
+Inference[3] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.3
+Inference[4] final GAMMA-based Likelihood: -17239.330498 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.4
+Inference[5] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.5
+Inference[6] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.6
+Inference[7] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.7
+Inference[8] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.8
+Inference[9] final GAMMA-based Likelihood: -17239.329977 tree written to file /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_result.fullscan.RUN.9
+
+
+Starting final GAMMA-based thorough Optimization on tree 3 likelihood -17239.329977 .... 
+
+Final GAMMA-based Score of best tree -17239.330488
+
+Program execution info written to /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_info.fullscan
+Best-scoring ML tree written to: /g/bork/huerta/prx5/prx5/raxml_on_manual/RAxML_bestTree.fullscan
+
+Overall execution time: 948.885958 secs or 0.263579 hours or 0.010982 days
+
