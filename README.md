@@ -1,10 +1,10 @@
 ###  Description
 This is part of the supplementary material of the paper: 
 
-*Prokaryotic ancestry of a dual localized peroxiredoxin 5 in malaria parasites.*
+**Prokaryotic ancestry of a dual localized peroxiredoxin 5 in malaria parasites.**
  Carine F. Djuika, Jaime Huerta-Cepas, Jude M. Przyborski, Sophia Deil, Cecilia
  P. Sanchez, Tobias Doerks, Peer Bork, Michael Lanzer, Marcel
- Deponte. **Microbial Cell (2014). In press***
+ Deponte. *Microbial Cell (2014). In press*
 
 The repository contains all the data and scripts used for phylogenetic analyses.
 
